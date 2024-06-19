@@ -1,0 +1,582 @@
+generic,brand
+abatacept,[['orencia']]
+abciximab,[['reopro']]
+acarbose,[['precose']]
+acebutolol,[['sectral']]
+acetazolamide,[['diamox']]
+acetone,[['keratex']]
+acitretin,[['soriatane']]
+acyclovir,"[['zovirax', 'virovir', 'xerese', 'lidovir', 'sitavig']]"
+adapalene,"[['differin', 'epiduo', 'plixda', 'cabtreo']]"
+albendazole,"[['albenza', 'valbazen']]"
+aldesleukin,[['proleukin']]
+alendronate,"[['fosamax', 'binosto']]"
+alfentanil,[['alfenta']]
+aliskiren,"[['tekturna', 'valturna', 'amturnide', 'tekamlo']]"
+allantoin,"[['sarene', 'neutracett', 'shing-releev', 'fungisan', 'theraworx', 'vexa', 'zzip']]"
+allopurinol,"[['caplenal', 'cosuric', 'rimapurinol', 'xanthomax', 'zyloprim', 'lopurin', 'aloprim', 'aloral', 'aluline', 'hamarin', 'duzallo']]"
+alogliptin,"[['nesina', 'kazano', 'oseni']]"
+alprazolam,"[['xanax', 'calprazolam', 'niravam']]"
+alprostadil,"[['edex', 'caverject', 'muse']]"
+alteplase,[['activase']]
+amantadine,"[['symmetrel', 'symadine', 'mantadine', 'gocovri', 'osmolex']]"
+ambenonium,[['mytelase']]
+amikacin,"[['amikin', 'amimax', 'arikayce']]"
+amiodarone,"[['cordarone', 'pacerone', 'amidox', 'nexterone']]"
+amitriptyline,"[['lentizol', 'limbitrol', 'elavil', 'domical', 'triavil', 'vanatrip', 'endep', 'duo-vil', 'etrafon']]"
+amlodipine,"[['norvasc', 'lotrel', 'caduet', 'exforge', 'azor', 'amturnide', 'tekamlo', 'tribenzor', 'twynsta', 'prestalia', 'consensi', 'katerzia', 'norliqva']]"
+amoxapine,[['asendin']]
+ampicillin,"[['unasyn', 'penbritin', 'rimacillin', 'vidopen', 'ampitrin', 'polycillin', 'omnipen', 'amficot', 'marcillin', 'omnipen-n', 'polycillin-prb', 'principen', 'totacillin', 'totacillin-n', 'hetacin-k', 'polyflex']]"
+anakinra,[['kineret']]
+anastrozole,[['arimidex']]
+apixaban,[['eliquis']]
+apraclonidine,[['iopidine']]
+aprepitant,"[['emend', 'cinvanti', 'aponvie']]"
+aripiprazole,[['abilify']]
+atenolol,"[['tenoretic', 'antipressan', 'atenix', 'atenixco', 'tenchlor', 'tenormin', 'totamol', 'totaretic', 'senormin', 'vasaten', 'tenoret']]"
+atorvastatin,"[['lipitor', 'caduet', 'liptruzet', 'lypqozet', 'atorvaliq']]"
+atracurium,[['tracrium']]
+atropine,"[['lomotil', 'donnatal', 'antispas', 'antrocol', 'atropine-care', 'atropisol', 'atrosept', 'barbidonna', 'barophen', 'bellalphen', 'bellatal', 'colidrops', 'cystemms-v', 'd-tal', 'di-atro', 'dimotal', 'dolsed', 'donnaphen', 'donnapine', 'elixiral', 'enlon-plus', 'haponal', 'hyosophen', 'hypersed', 'lomocot', 'lonox', 'malatal', 'motofen', 'ocu-tropine', 'phenobel', 'sal-tropine', 'spasmolin', 'spasquid', 'spastolate', 'uaa', 'urapine', 'uretron', 'urised', 'uritin', 'vi-atro', 'eumydrin', 'atropen', 'mhp-a', 'usept', 'atreza', 'alkabel', 'duodote', 'servira', 'uritact', 'prosed', 'uri-sep', 'chardonna', 'urimar', 'b-donna', 'phenohytro']]"
+azathioprine,"[['azamune', 'immunoprin', 'oprisine', 'imuran', 'berkaprine', 'azasan']]"
+azithromycin,"[['zithromax', 'zpak', 'zmax', 'azinthromycin', 'azasite']]"
+bacitracin,"[['polysporin', 'ak-tracin', 'baci-im', 'baci-rx', 'baciguent', 'neocin', 'ocu-cort', 'ocumycin', 'ocutricin', 'polycin-b', 'polycin', 'polytracin', 'septa', 'lanabiotic', 'ocu-tracin', 'ocu-spore-b', 'polymycin', 'polycidin', 'procomycin', 'neo-polycin', 'vetropolycin', 'triplicin']]"
+baclofen,"[['baclospas', 'balgifen', 'lioresal', 'kemstro', 'gablofen', 'ozobax', 'lyvispah', 'fleqsuvy']]"
+basiliximab,[['simulect']]
+beclomethasone,"[['beconase', 'beclovent', 'vancenase', 'vanceril', 'qvar', 'qnasl']]"
+belladonna,[['butibel']]
+benazepril,"[['lotensin', 'lotrel', 'cardalis']]"
+bendamustine,"[['treanda', 'bendeka', 'belrapzo', 'vivimusta']]"
+benzalkonium,"[['bactine', 'benza', 'pedi-pro', 'roccal', 'mercuroclear', 'herpetrol', 'instantfoam', 'readybath', 'scrubs', 'skilcraft', 'ecocare', 'dephyze', 'sani-foam', 'meditize', 'zephiran', 'pheneen', 'nobac', 'keepan', 'throat-releev', 'shing-releev', 'viroxyn', 'hex-o-prep', 'fungisan', 'allercaine', 'handclens', 'cicloferon', 'lysimax', 'med-i-san', 'omnicide', 'fung-a-way', 'mertodol']]"
+benzocaine,"[['cepacol', 'auralgan', 'cetacaine', 'chloraseptic', 'orabase', 'anbesol', 'anacaine', 'aurodex', 'auroto', 'bicozene', 'dermoplast', 'dolotic', 'foille', 'isodettes', 'navogan', 'oticaine', 'otigesic', 'otocain', 'spec-t', 'tympagesic', 'zilactin-b', 'hurricaine', 'americaine', 'rx-otic', 'tebamide', 'ti-plex', 'triban', 'retre-gel', 'omedia', 'boil-ease', 'ear-gesic', 'trimazide', 'gingicaine', 'algiotic', 'otoalgan', 'antiben', 'balagan', 'freez-eez', 'topicale', 'exactacain', 'auroguard', 'medicone', 'benz-o-sthetic', 'benzo-o-sthetic', 'benzoquick', 'orajel', 'trocaine', 'neotic', 'conffits', 'trioxin', 'z-xtra', 'treagan', 'dent-o-kain', 'superdent', 'benzo-jel', 'beegentle', 'lanacane', 'ultracare', 'bucalcide', 'dentapaine', 'dermagesic', 'orasep', 'sepasoothe', 'otozin', 'benzodent', 'myoxin', 'clinistat', 'alpha-caine', 'bucalsep', 'stingeze', 'viroxyn', 'orastat', 'neutracaine', 'bencocaine', 'salinocaine', 'anesgerm', 'angidol', 'tokisan', 'sting-kill', 'salivacaine', 'sensicaine', 'lollicaine', 'chiggerex', 'vistacaine', 'stingx', 'numstat']]"
+benztropine,[['cogentin']]
+betamethasone,"[['betnesol', 'betnelan', 'betnovate', 'celestone', 'adbeon', 'alphatrex', 'beta-val', 'betaderm', 'betanate', 'betatrex', 'cell-u-jec', 'del-beta', 'diprolene', 'diprosone', 'lotrisone', 'maxivate', 'selestoject', 'teladar', 'uticort', 'valisone', 'vista-methasone', 'luxiq', 'betamethacot', 'betastat', 'detamethasone', 'dovobet', 'taclonex', 'gentaved', 'gentacalm', 'vetromax', 'gentaspray', 'genone', 'gentaotic', 'malotic', 'relifor', 'remicin', 'betavet', 'otomax', 'enstilar', 'sernivo', 'vetaderm', 'wynzora']]"
+betaxolol,"[['kerlone', 'betoptic']]"
+bethanechol,[['duvoid']]
+bimatoprost,"[['lumigan', 'latisse', 'durysta']]"
+biotin,"[['appearex', 'nail-ex', 'hemax', 'nephrocaps', 'infuvite', 'lexinal']]"
+bisacodyl,"[['dulcolax', 'bisa-plex', 'bisac-evac', 'bisco-lax', 'bisolax', 'dulcogen', 'veracolate', 'alophen', 'evac-u-gen', 'feen-a-mint', 'correctol', 'bet-r-prep']]"
+bisoprolol,"[['ziac', 'emcor', 'monocor', 'zebeta']]"
+bosentan,[['tracleer']]
+bran,[['fybranta']]
+brimonidine,"[['alphagan', 'combigan', 'simbrinza', 'mirvaso', 'lumify']]"
+bromocriptine,"[['parlodel', 'cycloset']]"
+budesonide,"[['entocort', 'pulmicort', 'rhinocort', 'symbicort', 'uceris', 'ortikos', 'breztri', 'tarpeyo', 'breyna', 'airsupra', 'eohilia']]"
+bupivacaine,"[['sensorcaine', 'duocaine', 'vivacaine', 'marcaine', 'exparel', 'nocita', 'xaracoll', 'zynrelef', 'posimir']]"
+bupropion,"[['wellbutrin', 'zyban', 'budeprion', 'buproban', 'aplenzin', 'forfivo', 'contrave', 'auvelity']]"
+butorphanol,"[['stadol', 'butorphic', 'torbugesic', 'torphaject', 'torphadine']]"
+cabergoline,[['dostinex']]
+caffeine,"[['cafergot', 'fiorinal', 'revive', 'combiflex', 'fioricet', 'alagesic', 'americet', 'anacin', 'anoquan', 'arcet', 'aspircaf', 'dolmar', 'emagrin', 'endolor', 'esgic', 'excedrin', 'ezol', 'femcet', 'fiormor', 'fiorpap', 'fiortal', 'fortabs', 'genace', 'genasan', 'geone', 'ide-cet', 'idenal', 'isocet', 'isollyl', 'laniroif', 'major-cin', 'margesic', 'medigesic', 'migergot', 'minotal', 'mygracet', 'norgesic', 'pc-cap', 'pacaps', 'pharmagesic', 'q-acin', 'caffedrine', 'repan', 'saleto', 'supac', 'synalgos-dc', 'tenake', 'tencet', 'tussirex', 'two-dyne', 'uni-ann', 'uni-case', 'vanquish', 'verv', 'vivarin', 'wakespan', 'waykup', 'wigraine', 'zebutal', 'cafcit', 'orphengesic', 'ex-pain', 'nonbac', 'migralam', 'migrend', 'levacet', 'durabac', 'lucidex', 'cafgesic', 'migraten', 'zerlor', 'trezix', 'pep-back', 'farbital', 'prodrin', 'triad', 'backprin', 'orbivan', 'arthriten', 'capacet', 'sedalmex', 'bc', 'belcomp', 'migracet', 'exaprin', 'ascomp', 'anolor', 'drowz-away', 'jet-alert', 'vanatol', 'sed-max', 'dvorah', 'nosnooze', 'vtol']]"
+calamine,"[['cala-gen', 'caladryl', 'calagesic', 'callergy', 'calohist', 'ivarest', 'dermaseptin', 'dermasav', 'calmafx']]"
+calcitriol,"[['calcijex', 'rocaltrol', 'vectical']]"
+capecitabine,[['xeloda']]
+captopril,"[['capozide', 'acepril', 'capoten', 'ecopace', 'kaplon', 'hypapril', 'tensopril', 'hyteneze', 'capropril']]"
+carbamazepine,"[['epimaz', 'tegretol', 'epitol', 'carbatrol', 'equetro', 'carnexiv']]"
+carbamide,"[['proxigel', 'amino-cerv', 'accuzyme', 'atrac-tain', 'gormel', 'nutraplus', 'panafil', 'rea-lo', 'u-lactin', 'carmol', 'ethezyme', 'kovia', 'gladase', 'vanamide', 'ziox', 'umecta', 'keralac', 'pedural', 'gladase-c', 'ultralytic', 'cerovel', 'keratol', 'x-viate', 'u-kera', 'allanzyme', 'allanfil', 'kerafoam', 'kerol', 'paptase', 'allanenzyme', 'allanfillenzyme', 'mectalyte', 'remeven', 'papfyll', 'uramaxin', 'latrix', 'carb-o-lac', 'aluvea', 'lipidro', 'utopic']]"
+carbidopa,"[['sinemet', 'lodosyn', 'atamet', 'carbodopa', 'parcopa', 'stalevo', 'rytary', 'duopa', 'dhivy']]"
+carboplatin,[['paraplatin']]
+carboprost,[['hemabate']]
+carteolol,"[['cartrol', 'ocupress', 'teoptic']]"
+carvedilol,"[['eucardic', 'coreg']]"
+cefaclor,"[['keftid', 'ceclor', 'raniclor']]"
+cefoperazone,[['cefobid']]
+cefotaxime,[['claforan']]
+cefotetan,[['cefotan']]
+cefpodoxime,"[['vantin', 'orelox', 'simplicef', 'cefpoderm']]"
+ceftazidime,"[['tazidime', 'fortaz', 'tazicef', 'ceptaz', 'avycaz']]"
+ceftizoxime,"[['cefizox', 'zincaf']]"
+ceftriaxone,[['rocephin']]
+celecoxib,"[['celebrex', 'consensi', 'elyxyb', 'seglentis']]"
+celiprolol,[['celectol']]
+cephalexin,"[['tenkorex', 'keflex', 'biocef', 'keftab', 'zartan', 'kiflone', 'keflex-c', 'rilexine', 'daxbia']]"
+cephalothin,[['keflin']]
+cetuximab,[['erbitux']]
+cevimeline,[['evoxac']]
+chlorambucil,[['leukeran']]
+chloramphenicol,"[['ophthocort', 'chloromycetin', 'kemicetine', 'ak-chlor', 'chloracol', 'chloroptic', 'ocu-chlor', 'econochlor', 'viceton']]"
+chlordiazepoxide,"[['librium', 'librax', 'limbitrol', 'tropium', 'mitran', 'chlordinium', 'clindex', 'libritabs', 'poxi', 'h-tran']]"
+chlorhexidine,"[['hibitane', 'rotersept', 'instillagel', 'hibisol', 'corsodyl', 'betasept', 'chlorostat', 'dyna-hex', 'hibistat', 'periochip', 'periogard', 'hibiclens', 'tisept', 'sterexidine', 'perisol', 'chlorhexigard', 'denticare', 'periosep', 'oris', 'denti-rinse', 'chloraprep', 'septi-soothe', 'avagard', 'malaseb', 'chlorascrub', 'supreme', 'bactoshield', 'prevantics', 'vital-chlor', 'hex-o-prep', 'vital-ketodine', 'hexidip', 'paroex', 'mal-a-ket', 'ketochlor', 'hexi-dip', 'kenocidin', 'hexadine', 'vetasan', 'scrub-stat', 'exidine', 'keto-c', 'vetraseb', 'otodine', 'nolvadent', 'nolvasan', 'soluprep', 'maxiclens']]"
+chloroprocaine,"[['nesacaine', 'clorotekal', 'iheezo']]"
+chloroquine,[['malarivon']]
+chlorothiazide,"[['diuril', 'diupres', 'aldoclor']]"
+chlorpheniramine,"[['chlor-trimeton', 'aller-chlor', 'allerlief', 'amtussin', 'chlo-amine', 'chlor-phen', 'colrex', 'demi-cof', 'ditussin-hc', 'ed-tlc', 'efasin-hd', 'endagen-hd', 'endal-hd', 'enditussin-hd', 'endotuss-hd', 'enplus-hd', 'exo-tuss', 'hexatussin', 'histussin-hc', 'hyphed', 'hyphen-hd', 'kg-tussin', 'm-end', 'med-hist-hc', 'nasatuss', 'notuss', 'pediacof', 'pedituss', 'poly-tussin', 'rindal-hd', 'rolatuss', 'tuss-ds', 'tuss-hc', 'tussend', 'tussin-v', 'vanex-hd', 'ventuss', 'b-tuss', 'trionate', 'coldcough', 'pancof', 'pancof-pd', 'relacon-hc', 'triant-hc', 'uni-cof', 'hist-hc', 'hist-plus', 'aerohist', 'tussionex', 'ricotuss', 'cordron-hc', 'ryneze', 'tusana-d', 'codeprex', 'hytan', 'tustan', 'pediatan', 'relasin-hc', 'baltussin', 'drotuss-cp', 'didone', 'novasus', 'p-tann', 'wal-finate', 'pediox-s', 'chlortan', 'dexodryl', 'phena-hc', 'tussicaps', 'tanahist-pd', 'zhist', 'duohist', 'notuss-ac', 'cotabflu', 'jaycof-hc', 'vanex', 'ztuss', 'phendal-hd', 'tuss-pd', 'echotuss-hc', 'hydrocof-hc', 'entre-s', 'ryna-c', 'despec-pdc', 'zutripro', 'chlorate', 'vituz', 'tuzistra', 'tuxarin', 'clorrelief']]"
+chlorpromazine,"[['largactil', 'thorazine', 'dozine']]"
+chlorpropamide,"[['diabinese', 'insulase']]"
+chlorthalidone,"[['combipres', 'tenoretic', 'atenixco', 'hygroton', 'tenchlor', 'totaretic', 'regroton', 'thalitone', 'clorpres', 'demi-regroton', 'tenoret', 'edarbyclor']]"
+ciclesonide,"[['alvesco', 'omnaris', 'zetonna', 'aservo']]"
+cilastatin,"[['primaxin', 'recarbrio']]"
+cilostazol,[['pletal']]
+cimetidine,"[['algitec', 'dyspamet', 'galenamet', 'phimetin', 'tagamet', 'ultec', 'zita']]"
+cinnarizine,[['cinazière']]
+ciprofloxacin,"[['ciproxin', 'cipro', 'ciloxan', 'ciprodex', 'ciproflaxacin', 'proquin', 'cetraxal', 'otiprio', 'otovel']]"
+cisatracurium,[['nimbex']]
+cisplatin,[['platinol']]
+citalopram,"[['cipramil', 'celexa', 'citalopraam']]"
+cladribine,[['mavenclad']]
+clarithromycin,[['biaxin']]
+clavulanate,"[['timentin', 'augmentin', 'amoxicillinan', 'amoclan', 'clavamox', 'clavacillin', 'betacillin', 'umbrellin']]"
+clindamycin,"[['antirobe', 'cleocin', 'clinda-derm', 'benzaclin', 'clindets', 'clindagel', 'duac', 'clindamax', 'clindesse', 'evoclin', 'ziana', 'cleocin-t', 'acanya', 'clindareach', 'clindarobe', 'clintabs', 'clinsol', 'pledgaclin', 'veltin', 'clindacure', 'clindacin', 'zydaclin', 'clindamed', 'neuac', 'clindrops', 'onexton', 'clinda-guard', 'xaciato', 'cabtreo']]"
+clofazimine,[['lamprene']]
+clomiphene,"[['serophene', 'clomid']]"
+clomipramine,"[['anafranil', 'clomicalm', 'caniquell']]"
+clonidine,"[['combipres', 'dixarit', 'catapres', 'clorpres', 'duraclon', 'kapvay', 'nexiclon']]"
+clopidogrel,[['plavix']]
+clotrimazole,"[['canesten', 'lotrimin', 'mycelex', 'femcare', 'lotrisone', 'mycelex-g', 'masnoderm', 'dermatin', 'pedesil', 'vetromax', 'clotrimazoil', 'fungazoil', 'alevazol', 'malotic', 'remicin', 'motazol', 'otomax', 'mometamax', 'pattotic', 'fungistat', 'maxi-otic', 'lozatom', 'jock-eze', 'mometazole', 'mometavet']]"
+clozapine,"[['clozaril', 'fazaclo', 'versacloz']]"
+cobalamin,"[['eldertonic', 'anemagen', 'crystamine', 'cyanoject', 'cyomin', 'neuroforte-r', 'poly-vi-sol', 'sytobex', 'vibal', 'foltx', 'nascobal', 'fetrin', 'primabalt', 'foltrate', 'folbalin', 'folbee', 'folbic', 'allanfol', 'folplex', 'rena-vite', 'foltabs', 'calomist', 'vita-respa', 'nufol', 'multigen', 'biferarx', 'folcaps', 'mi-omega', 'ferotrin', 'ferocon', 'ferotrinsic', 'ferraplus', 'folbecal', 'hemax', 'nephrocaps', 'vanachol', 'multi-delyn', 'folgard', 'cenfol', 'fumatinic', 'lactocal', 'vitafol-one', 'foleve', 'folnate', 'natafort', 'infuvite', 'hematogen', 'feogen', 'ferrogels', 'niva-fol', 'dodex']]"
+codeine,"[['codafen', 'ambenyl', 'bron-tuss', 'brontex', 'calcidrine', 'codafed', 'colrex', 'cycofed', 'demi-cof', 'dicomal-ph', 'dihistine', 'glydeine', 'guai-co', 'kg-fed', 'm-phen', 'nucochem', 'nucodine', 'nucofed', 'pediacof', 'pedituss', 'rolatuss', 'statuss', 'tussirex', 'phenco-care', 'vopac', 'gencofed', 'codeprex', 'codrix', 'notuss-ac', 'notuss-dc', 'cotabflu', 'vanacof', 'nucotuss', 'cocet', 'notuss-pe', 'execlear-c', 'airacof', 'pyregesic', 'tylagesic', 'ryna-c', 'bitex', 'alphen', 'cyndal', 'endotuss', 'biotussin', 'cheratussin', 'co-histine', 'codahistine', 'decohistine', 'deproist', 'novagest', 'phenhist', 'ryna-cx', 'suttar', 'tussar', 'codegest', 'tusso-c', 'zotex-c', 'notuss-nxd', 'notuss-nx', 'nasotuss', 'pluratuss', 'ascomp', 'tuzistra', 'tuxarin']]"
+colchicine,"[['colcrys', 'mitigare', 'gloperba', 'lodoco']]"
+colesevelam,[['welchol']]
+collagenase,[['santyl']]
+cromolyn,"[['cusilyn', 'intal', 'opticrom', 'viz-on', 'nasalcrom', 'crolom', 'gastrocrom', 'rynacrom']]"
+cyclophosphamide,"[['endoxana', 'cytoxan']]"
+cycloserine,[['seromycin']]
+cyclosporine,"[['sandimmune', 'neoral', 'sangcya', 'gengraf', 'restasis', 'atopica', 'cyslosporine', 'optimmune', 'cequa', 'cyclavance', 'verkazia', 'vevye', 'sporimune']]"
+cyproheptadine,[['periactin']]
+cyproterone,[['cyprostat']]
+cytarabine,"[['alexan', 'cytosar-u', 'cytosar', 'depocyt', 'vyxeos']]"
+danazol,[['danocrine']]
+dantrolene,"[['dantrium', 'revonto', 'ryanodex']]"
+dapsone,[['aczone']]
+daptomycin,"[['cubicin', 'dapzura']]"
+darunavir,"[['prezista', 'prezcobix', 'symtuza']]"
+dasatinib,[['sprycel']]
+deferoxamine,[['desferal']]
+demeclocycline,[['declomycin']]
+deoxycholate,[['kybella']]
+desflurane,[['suprane']]
+desipramine,"[['pertofrane', 'norpramin']]"
+desmopressin,"[['ddavp', 'stimate', 'minirin', 'noctiva', 'nocdurna']]"
+desogestrel,[['desogen']]
+dexamethasone,"[['maxitrol', 'hexadrol', 'dexasone', 'maxidex', 'decaspray', 'aeroseb-dex', 'ak-dex', 'ak-neo-dex', 'ak-trol', 'dalalone', 'decadron-la', 'dexacidin', 'dexacine', 'dexacort-la', 'dexasol', 'dexasporin', 'methadex', 'neo-decadron', 'neo-dex', 'neo-dexair', 'poly-dex', 'tobradex', 'decadron', 'ocu-dex', 'ocu-trol', 'ciprodex', 'robadex', 'eyetrol', 'neopolydex', 'ozurdex', 'baycadron', 'dexaject', 'tresaderm', 'dexium', 'dexycu', 'dextenza', 'hemady']]"
+dextran,"[['macrodex', 'promit']]"
+dextroamphetamine,"[['adderall', 'dexedrine', 'dextrostat', 'durophet', 'liquadd', 'procentra', 'zenzedi', 'mydayis', 'xelstrym']]"
+dextrose,"[['emetrol', 'glutose', 'monojel', 'ionosol-b', 'ionosol-mb', 'ionosol-t', 'normosol-m', 'navstel', 'glucoburst']]"
+diazepam,"[['dialar', 'rimapam', 'tensium', 'valclair', 'valium', 'diazemuls', 'stesolid', 'd-val', 'diastat', 'dizac', 'valrelease', 'zetran', 'solis', 'alupram', 'atensine', 'evacalm', 'valicot', 'valtoco']]"
+dibucaine,"[['rectacaine', 'nupercainal']]"
+diclofenac,"[['voltarol', 'arthrotec', 'flector', 'dicloflex', 'diclozip', 'flamrase', 'isclofen', 'lofensaid', 'rhumalgan', 'valenac', 'volraman', 'voltarene', 'diclotard', 'voltaren', 'cataflam', 'acoflam', 'solaraze', 'diclovol', 'zipsor', 'cambia', 'pennsaid', 'zorvolex', 'dyloject', 'licart', 'lofena', 'trifena']]"
+dicloxacillin,"[['dynapen', 'dycill']]"
+didanosine,"[['videx', 'viden']]"
+diethylstilbestrol,"[['apstil', 'stilphostrol']]"
+digoxin,"[['cardoxin', 'lanoxin', 'lanoxicaps', 'digitek', 'digox']]"
+dihydroergotamine,"[['migranal', 'trudhesa']]"
+dihydroxyacetone,"[['vitadye', 'chromelin']]"
+diltiazem,"[['angiozem', 'britiazim', 'metazem', 'slozem', 'tildiem', 'calazem', 'cardizem', 'teczem', 'tiazac', 'kentiazem', 'tiamate', 'calcicard', 'taztia', 'cartia', 'dilt', 'diltzac', 'diltia', 'dilacor', 'matzim', 'tiadylt']]"
+dinoprostone,"[['prepidil', 'cervidil']]"
+diphenhydramine,"[['diphenyl', 'sominex', 'paxidorm', 'benadryl', 'aler-dryl', 'allergia-c', 'allermax', 'altaryl', 'antihist', 'banophen', 'beldin', 'belix', 'bydramine', 'di-delamine', 'diphedryl', 'diphenadryl', 'diphendryl', 'diphenhist', 'diphenylin', 'dytuss', 'genahist', 'hydramine', 'nervine', 'nu-med', 'pardryl', 'siladryl', 'sleepinal', 'somnicaps', 'tusstat', 'twilite', 'uni-hist', 'valu-dryl', 'derma-pax', 'dytan', 'dytan-d', 'tussinate', 'dytan-cs', 'dytan-hc', 'aldex-ct', 'dytan-at', 'dytan-cd', 'calagel', 'respa-sa', 'tekral', 'airacof', 'wal-dryl', 'compoz', 'wal-dryl-d', 'calohist', 'hc-derma-pax', 'nytol', 'sleeptabs', 'sleep-eze', 'benekraft', 'siladyl', 'acetadryl', 'dermamycin', 'zzzquil', 'ivarest', 'sebrx', 'vetadryl', 'wal-som', 'zzztime', 'z-sleep', 'somnapure', 'dalay', 'vanamine', 'dormin', 'tact']]"
+diphenoxylate,"[['lomotil', 'di-atro', 'dimotal', 'lomocot', 'lonox', 'vi-atro']]"
+dipivefrine,"[['propine', 'ak-pro']]"
+disulfiram,[['antabuse']]
+dobutamine,[['dobutrex']]
+docetaxel,"[['taxotere', 'docefrez', 'docivyx']]"
+docusate,"[['colace', 'ferro-sequels', 'peri-colace', 'doxidan', 'aqualax', 'dok', 'dialose', 'dioctyn', 'docal', 'docucal', 'docucal-p', 'doculax', 'kasof', 'octycine', 'senokot-s', 'unilax', 'docusol', 'senosol-ss', 'senexon-s', 'purgasol', 'prenexa', 'ferraplus', 'hemax', 'promolaxin', 'enemeez', 'therevac', 'pet-ema', 'docusoft-s', 'doculase', 'dulcoease', 'laxacin']]"
+dolutegravir,"[['tivicay', 'triumeq', 'juluca', 'dovato']]"
+donepezil,"[['aricept', 'namzaric', 'adlarity']]"
+doripenem,[['doribax']]
+dorzolamide,"[['trusopt', 'cosopt']]"
+doxepin,"[['zonalon', 'adapin', 'sinequan', 'prudoxin', 'silenor']]"
+doxorubicin,"[['adriamycin', 'doxil', 'lipodox', 'caelyx']]"
+doxycycline,"[['vibramycin', 'doryx', 'doxy-caps', 'monodox', 'periostat', 'vibra-tabs', 'adoxa', 'bio-tab', 'doxal', 'doxy', 'pelodis', 'oracea', 'alodox', 'oraxyl', 'avidoxy', 'ocudox', 'morgidox', 'acticlate', 'mondoxyne', 'targadox', 'soloxide', 'okebo']]"
+duloxetine,"[['cymbalta', 'irenka', 'drizalma']]"
+econazole,"[['pevaryl', 'ecostatin', 'spectazole', 'ecoza']]"
+edrophonium,"[['enlon', 'tensilon', 'enlon-plus', 'reversol']]"
+edta,"[['disotate', 'endrate', 'meritate']]"
+efavirenz,"[['sustiva', 'atripla', 'symfi']]"
+empagliflozin,"[['jardiance', 'glyxambi', 'synjardy', 'trijardy']]"
+emtricitabine,"[['emtriva', 'truvada', 'atripla', 'complera', 'stribild', 'genvoya', 'odefsey', 'descovy', 'biktarvy', 'symtuza']]"
+enalapril,"[['innovace', 'renitec', 'vaseretic', 'lexxel', 'teczem', 'vasotec', 'epaned']]"
+enflurane,[['ethrane']]
+enoxaparin,[['lovenox']]
+entacapone,"[['comtess', 'comtan', 'stalevo']]"
+entecavir,[['baraclude']]
+ephedrine,"[['quadrinal', 'ami-rax', 'broncholate', 'bronkaid', 'kie', 'lufyllin-epg', 'marax', 'mudrane', 'pretz-d', 'bronkolixir', 'akovaz', 'corphedra', 'emerphed', 'rezipres']]"
+epinephrine,"[['medihaler-epi', 'glaucon', 'epifrin', 'ana-guard', 'asthmahaler', 'bronitin', 'simplene', 'septocaine', 'epinal', 'iontocaine', 'lignospan', 'lidosite', 'zorcaine', 'twinject', 'epipen', 'articadent', 'adrenaclick', 'vivacaine', 'auvi-q', 'ganda', 'orabloc', 'adrenalin', 'ultacan', 'symjepi']]"
+eplerenone,[['inspra']]
+epoprostenol,"[['flolan', 'veletri']]"
+eptifibatide,[['integrilin']]
+ergocalciferol,"[['drisdol', 'deltalin', 'calcidol', 'calel-d']]"
+ertapenem,[['invanz']]
+erythromycin,"[['pediazole', 'staticin', 'aknemycin', 'akne-mycin', 'benzamycin', 'eryzole', 'arpimycin', 'rommix', 'erymin', 'ilotycin', 'e-mycin', 'ery-tab', 'eryderm', 'robimycin', 'erygel', 'eryc', 'erycette', 'erymax', 't-stat', 'eryped', 'erythroped', 'ilosone', 'del-mycin', 'emgel', 'ery-sol', 'erythra-derm', 'erythrocot', 'my-e', 'romycin', 'sulfimycin', 'theramycin', 'stiemycin', 'erythrolar', 'erythromicin', 'eyemycin', 'erythrocin', 'ery', 'pce', 'maracyn', 'ornacyn', 'gallimycin', 'aktipak']]"
+erythropoietin,"[['eprex', 'epogen', 'procrit', 'retacrit']]"
+escitalopram,[['lexapro']]
+esmolol,[['brevibloc']]
+estramustine,"[['emcyt', 'estracyt']]"
+estriol,[['incurin']]
+etanercept,"[['enbrel', 'eticovo']]"
+ethambutol,[['myambutol']]
+ethinylestradiol,"[['estinyl', 'desogen', 'alesse', 'levlen', 'levlite', 'levora', 'ovral', 'femhrt', 'cryselle', 'ortho-cyclen', 'angeliq', 'tri-levlen', 'nuvaring', 'lybrel', 'jinteli', 'jevantique', 'xulane', 'fyavolv', 'annovera', 'eluryng', 'twirla', 'zafemy', 'haloette', 'enilloring']]"
+ethionamide,"[['trecator', 'trecator-sc']]"
+etomidate,[['amidate']]
+etonogestrel,"[['implanon', 'nuvaring', 'nexplanon', 'eluryng', 'haloette', 'enilloring']]"
+etoposide,"[['vepesid', 'toposar', 'etopophos']]"
+exenatide,"[['byetta', 'bydureon']]"
+ezetimibe,"[['zetia', 'vytorin', 'liptruzet', 'nexlizet', 'roszet', 'lypqozet']]"
+famotidine,"[['pepcid', 'fluxid', 'calmicid', 'duexis']]"
+febuxostat,[['uloric']]
+fenfluramine,"[['ponderax', 'pondimin', 'fintepla']]"
+fenofibrate,"[['lipanthyl', 'tricor', 'lofibra', 'antara', 'triglide', 'triblide', 'lipofen', 'fenoglide', 'fenochol', 'trilipix', 'fibricor']]"
+fenoldopam,[['corlopam']]
+fentanyl,"[['sublimaze', 'innovar', 'duragesic', 'actiq', 'fentora', 'onsolis', 'abstral', 'lazanda', 'subsys', 'recuvyra', 'ionsys']]"
+fexofenadine,"[['allegra-d', 'allegra', 'wal-fex']]"
+flecainide,[['tambocor']]
+fluconazole,[['diflucan']]
+flucytosine,[['ancobon']]
+fludarabine,[['oforta']]
+fludrocortisone,[['florinef']]
+flumazenil,[['romazicon']]
+fluorescein,"[['fluoracaine', 'flucaine', 'altafluor', 'flurox', 'fluress']]"
+fluorometholone,"[['eflone', 'flarex', 'fluor-op', 'fml-s', 'fml', 'tobraflex']]"
+fluorouracil,"[['adrucil', 'fluoroplex', 'efudex', 'carac', 'tolak']]"
+fluoxetine,"[['prozac', 'rapiflux', 'symbyax', 'sarafem', 'reconcile', 'selfemra']]"
+fluphenazine,"[['prolixin', 'moditen', 'permitil', 'decazate']]"
+flutamide,"[['eulexin', 'chimax']]"
+fluticasone,"[['flonase', 'cutivate', 'flovent', 'advair', 'veramyst', 'dymista', 'breo', 'arnuity', 'clarispray', 'nasoflow', 'aller-flo', 'airduo', 'armonair', 'trelegy', 'xhance', 'fluticare', 'wixela', 'beser']]"
+fluvastatin,[['lescol']]
+fomepizole,"[['antizol', 'antizol-vet']]"
+fondaparinux,[['arixtra']]
+formoterol,"[['foradil', 'symbicort', 'perforomist', 'dulera', 'bevespi', 'duaklir', 'breztri', 'breyna']]"
+foscarnet,[['foscavir']]
+framycetin,[['soframycin']]
+frovatriptan,[['frova']]
+fructose,[['emetrol']]
+fulvestrant,[['faslodex']]
+furosemide,"[['dryptal', 'froop', 'frusid', 'rusyde', 'frusemek', 'lasix', 'lo-aqua', 'frusol', 'diuresal', 'aluzine', 'frumax', 'frusetic', 'delone', 'furocot', 'disal', 'furoquid', 'furoscix']]"
+gabapentin,"[['neurontin', 'gabarone', 'gralise', 'horizant']]"
+galantamine,"[['reminyl', 'razadyne']]"
+gallamine,[['flaxedil']]
+gallium,[['ganite']]
+ganciclovir,"[['cymevene', 'cytovene', 'vitrasert', 'zirgan']]"
+gatifloxacin,"[['tequin', 'zymar', 'zymaxid']]"
+gentamicin,"[['garamycin', 'genoptic', 'g-myticin', 'ed-mycin', 'gentacidin', 'gentak', 'gentasol', 'pred-g', 'ocu-mycin', 'gentafair', 'gentaved', 'legacy', 'easotic', 'gentacalm', 'vetromax', 'gentaspray', 'genone', 'gentaotic', 'malotic', 'relifor', 'remicin', 'motazol', 'otomax', 'mometamax', 'garasol', 'pattotic', 'vetaderm', 'maxi-otic', 'lozatom', 'mometazole', 'mometavet']]"
+glipizide,"[['glibenese', 'minidiab', 'glucotrol', 'metaglip']]"
+glucagon,"[['glucagen', 'baqsimi', 'gvoke']]"
+glucosamine,"[['cidaflex', 'cosamin', 'schiff', 'optiflex-g', 'synovacin', 'tripleflex']]"
+glutaraldehyde,"[['verucasep', 'glutarol']]"
+glycerin,"[['aci-jel', 'osmoglyn', 'introl', 'neutracett', 'pretz', 'minica', 'sani-supp', 'regener-eyes']]"
+goserelin,[['zoladex']]
+griseofulvin,"[['gris-peg', 'fulvicin-u-f', 'griseofulicin', 'griseofulvic']]"
+halothane,[['fluothane']]
+hyaluronidase,"[['amphadase', 'vitrase', 'hydase', 'hylenex', 'phesgo']]"
+hydralazine,"[['apresazide', 'apresoline', 'hydrap-es', 'marpres', 'ser-ap-es', 'serathide', 'serpazide', 'serpex', 'tri-hydroserpine', 'unipres', 'hhr', 'bidil']]"
+hydrochlorothiazide,"[['aldactazide', 'capozide', 'dyazide', 'maxzide', 'ziac', 'zestoretic', 'apresazide', 'accuretic', 'zida-co', 'cozaar-comp', 'esimil', 'vaseretic', 'esidrix', 'oretic', 'hydrodiuril', 'carozide', 'diaqua', 'ezide', 'hydrap-es', 'hydro-reserp', 'hydroserp', 'hydroserpine', 'hyzaar', 'loqua', 'mallopress', 'marpres', 'microzide', 'prinzide', 'ser-ap-es', 'serathide', 'serpazide', 'serpex', 'tri-hydroserpine', 'unipres', 'uniretic', 'avalide', 'hhr', 'micardis-hct', 'timolide', 'quinaretic', 'prinize', 'trandide', 'hydrocot', 'hydrokraft', 'aldoril', 'amturnide', 'moduretic', 'dutoprol', 'monopril-hct', 'moduret', 'hydropres', 'tribenzor', 'oreticyl']]"
+hydrocortisone,"[['cortisporin', 'proctofoam-hc', 'terra-cortril', 'epifoam', 'locoid', 'corticaine', 'cortifoam', 'ophthocort', 'proctocream-hc', 'anusol-hc', 'efcortesol', 'hydrocortistab', 'nystaform-hc', 'cortenema', 'aeroseb-hc', 'cetacort', 'cort-dome', 'cortef', 'dermacort', 'hydrocortone', 'hytone', 'nutracort', 'proctocort', 'solu-cortef', 'a-hydrocort', 'ala-cort', 'ala-quin', 'analpram-hc', 'anucort-hc', 'balneol', 'caldecort', 'cortaid', 'cortane', 'cortatrigen', 'cortisporin-tc', 'cortomycin', 'cotacort', 'dermolate', 'drotic', 'ear-eze', 'earsol-hc', 'enzone', 'gly-cort', 'hycort', 'hydrocortisone-aloe', 'hysone', 'ivocort', 'lacticare-hc', 'mantadil', 'neo-cortef', 'ocu-cort', 'otimar', 'otobiotic', 'pandel', 'pediotic', 'penecort', 'pramosone', 'procort', 'proctocream', 'rederm', 'sarnol-hc', 'scalp-aid', 'scalp-cort', 'steroform', 'texacort', 'theracort', 'tri-otic', 'vanoxide-hc', 'vio-tex-hc', 'vytone', 'westcort', 'efcortelan', 'dioderm', 'cortic', 'lazersporin-c', 'colocort', 'proctozone-h', 'cort-biotic', 'dermazene', 'exotic-hc', 'oti-sone', 'otocort', 'masporin', 'instacort', 'otirx', 'u-cort', 'encort', 'procto-pak', 'novacort', 'alcortin', 'cortane-b', 'rectacreame', 'proctocare-hc', 'nuzon', 'hydropramox', 'lodocortisone', 'lodocort', 'gynecort', 'peranex', 'micort-hc', 'procto-kit', 'coraz', 'otocidin', 'corticool', 'massengill', 'lidocort', 'xebcort', 'nucort', 'scalacort', 'trioxin', 'zypram', 'cortalo', 'ala-scalp', 'propet', 'xerese', 'rectagel', 'ana-lex', 'lidazone', 'maximum-h', 'beta-hc', 'rectacreme', 'hydroskin', 'hc-derma-pax', 'z-pram', 'myoxin', 'pramcort', 'biocorneum', 'easotic', 'hemril', 'proctosol', 'zoto-hc', 'rhulicort', 'kera-hc', 'cortratigen', 'rectacort-hc', 'resicort', 'hemmorex', 'procto-med', 'cortizone', 'malacetic', 'alkindi', 'clinicalm', 'skynplex']]"
+hydromorphone,"[['dilaudid', 'palladone', 'hydrostat', 'exalgo']]"
+hydroxychloroquine,"[['plaquenil', 'quineprox', 'sovuna']]"
+hypochlorite,"[['di-dak-sol', 'anasept', 'hysept', 'veteribac']]"
+ibuprofen,"[['apsifen', 'cuprofen', 'ebufac', 'fenbid', 'ibuleve', 'isisfen', 'lidifen', 'migrafen', 'pacifene', 'proflex', 'relcofen', 'rimafen', 'inoven', 'advil', 'brufen', 'motrin', 'ibumetin', 'nuprin', 'rufen', 'cap-profen', 'dolgesic', 'genpril', 'haltran', 'ibu', 'ibu-tab', 'menadol', 'q-profen', 'tab-profen', 'uni-pro', 'vicoprofen', 'junifen', 'ibumousse', 'ibren', 'ibrufhalal', 'ibular', 'paxofen', 'ibumed', 'combunox', 'reprexain', 'neoprofen', 'wal-profen', 'ibuprohm', 'caldolor', 'addaprin', 'ultraprin', 'duexis', 'proprinal', 'ibutab', 'ibudone', 'xylon', 'combogesic']]"
+ibutilide,[['corvert']]
+icatibant,"[['firazyr', 'sajazir']]"
+ifosfamide,[['ifex']]
+imatinib,[['gleevec']]
+imipramine,"[['tofranil', 'tofranil-pm', 'pramimil']]"
+imiquimod,"[['aldara', 'zyclara']]"
+indinavir,[['crixivan']]
+indomethacin,"[['artracin', 'imbrilon', 'indocid', 'indomax', 'indomod', 'rimacid', 'indocin', 'indoflex', 'indolar', 'mobilan', 'slo-indo', 'tivorbex']]"
+infliximab,"[['remicade', 'inflectra', 'renflexis', 'avsola', 'zymfentra']]"
+ipratropium,"[['atrovent', 'combivent', 'duoneb']]"
+irbesartan,"[['avapro', 'avalide']]"
+isoflurane,"[['forane', 'attane', 'terrell', 'isoflo', 'fluriso', 'isothesia', 'isosol', 'isospire']]"
+isoniazid,"[['rifater', 'rifamate', 'tubizid', 'soniazio', 'isonarif']]"
+isosorbide,"[['angeze', 'elantan', 'imdur', 'isotrate', 'monit', 'mono-cedocard', 'ketanodur', 'ismo', 'monoket', 'monodur']]"
+isotretinoin,"[['accutane', 'isotrex', 'amnest', 'amnesteem', 'sotret', 'claravis', 'myorisan', 'absorica', 'zenatane']]"
+itraconazole,"[['sporanox', 'hyphanox', 'onmel', 'tolsura']]"
+ivermectin,"[['stromectol', 'eqvalan', 'mectizan', 'zimecterin', 'bimectin', 'ivermax', 'equimax', 'equell', 'noromectin', 'vetrimec', 'endo-mectin', 'agri-mectin', 'ivomec', 'heartgard', 'acarexx', 'agrimectin', 'sklice', 'quadriguard', 'ivercare', 'promectin', 'privermectin', 'iver-on', 'duramectin', 'ivercide', 'iverchoice', 'soolantra', 'duocare', 'iverhart', 'imectro', 'vetrishield']]"
+ketamine,"[['ketalar', 'ketaflo', 'ketaved', 'keta-thesia', 'vetalar', 'ketaset', 'ketathesia', 'ketaject', 'ketacine', 'zetamine', 'vetaket']]"
+ketoconazole,"[['nizoral', 'kuric', 'xolegel', 'feoris', 'extina', 'pharmaseb', 'ketodan', 'vital-ketodine', 'mal-a-ket', 'ketochlor', 'keto-c', 'malacetic', 'recorlev']]"
+ketoprofen,"[['alrheumat', 'fenoket', 'ketocid', 'ketonal', 'ketovail', 'oruvail', 'powergel', 'ketotard', 'orudis', 'actron', 'ketofen', 'ketomed', 'kiprofen']]"
+ketorolac,"[['toradol', 'acular', 'acuvail', 'sprix', 'omidria']]"
+ketotifen,"[['zaditor', 'zaditen', 'alaway']]"
+labetalol,"[['labrocol', 'trandate', 'normodyne', 'trandide']]"
+lactulose,"[['duphalac', 'cephulac', 'cholac', 'chronulac', 'constilac', 'constulose', 'enulose', 'evalose', 'generlac', 'heptalac', 'kristalose', 'catulac', 'ro-lactulose']]"
+lamivudine,"[['combivir', 'epivir', 'trizivir', 'epzicom', 'triumeq', 'cimduo', 'symfi', 'delstrigo', 'dovato', 'temixys']]"
+lamotrigine,"[['lamictal', 'subvenite']]"
+lansoprazole,"[['prevacid', 'zoton']]"
+latanoprost,"[['xalatan', 'xelpros', 'rocklatan', 'iyuzeh']]"
+lecithin,[['lecithin-softgels']]
+leflunomide,[['arava']]
+lenalidomide,[['revlimid']]
+letrozole,[['femara']]
+leucovorin,[['refolinon']]
+levamisole,"[['ergamisol', 'valcor']]"
+levodopa,"[['madopar', 'sinemet', 'brocadopa', 'larodopa', 'atamet', 'dopar', 'carbodopa', 'parcopa', 'stalevo', 'rytary', 'duopa', 'inbrija', 'dhivy']]"
+levofloxacin,"[['levaquin', 'quixin', 'iquix']]"
+lidocaine,"[['emla', 'instillagel', 'solarcaine', 'vagisil', 'xylocaine', 'anestacaine', 'anestacon', 'bactine', 'd-caine', 'dermaflex', 'dilocaine', 'ela-max', 'l-caine', 'lidomar', 'nervocaine', 'truxacaine', 'zilactin-l', 'xylocard', 'lidoderm', 'octocaine', 'oraqix', 'duocaine', 'licodaine', 'mylocaine', 'iontocaine', 'lignospan', 'lidosite', 'rectacreame', 'lidodan', 'synera', 'lidamantle', 'senatec', 'mercuroclear', 'pliaglis', 'zingo', 'lidopen', 'peranex', 'lidocream', 'staphaseptic', 'anecream', 'lidocort', 'akten', 'lta', 'lmx', 'rectagel', 'ana-lex', 'lidazone', 'regenecare', 'lidoject', 'lidum', 'lidoworx', 'rectacreme', 'cutiecaine', 'anestafoam', 'procomycin', 'soulus', 'hexa-caine', 'keepan', 'recticare', 'lidopatch', 'lidovir', 'sonacaine', 'zcaine', 'hemaway', 'unburn', 'lenzapatch', 'lenzagel', 'allercaine', 'lidopro', 'lidostat', 'cicloferon', 'xolido', 'neuromed', 'alocane', 'vexa', 'radiaguard', 'puroxcin', 'glydo', 'comfortcaine', 'dermacool', 'silvera', 'topicaine', 'relador', 'lidotral', 'zensa', 'lexifen', 'lidocare', 'burnx', 'tranzarel', 'alocaine', 'cidaleaze', 'lidozen', 'ztlido', 'workvie', 'kool-down', 'bio-kool', 'lipocaine', 'omeza', 'hush', 'zionodil', 'lydexa', 'niravi', 'lidotran', 'lidocan', 'trifena', 'bruselix']]"
+linezolid,[['zyvox']]
+liothyronine,"[['cytomel', 'thyrolar', 'triostat']]"
+liraglutide,"[['victoza', 'saxenda', 'xultophy']]"
+lisinopril,"[['zestoretic', 'carace', 'zestril', 'prinivil', 'prinzide', 'prinize', 'qbrelis']]"
+loperamide,"[['arret', 'diocaps', 'imodium', 'loperagen', 'normaloe', 'lodiar', 'anti-diarrhea', 'diamode', 'diar-aid', 'imotil', 'kao-paverin', 'norimode', 'diareze', 'enterocina', 'vaprino']]"
+loratadine,"[['claritin', 'claritin-d', 'alavert', 'agistam', 'clear-atadine', 'clear-atadine-d', 'wal-itin', 'loradamed', 'wal-vert', 'allerclear']]"
+lorazepam,"[['ativan', 'almazine', 'loreev']]"
+lorcaserin,[['belviq']]
+losartan,"[['cozaar', 'cozaar-comp', 'hyzaar']]"
+lovastatin,"[['mevacor', 'advicor', 'altocor', 'altoprev']]"
+malathion,"[['suleo-m', 'ovide', 'prioderm']]"
+mannitol,"[['osmitrol', 'resectisol', 'bronchitol']]"
+maraviroc,[['selzentry']]
+mebendazole,"[['pripsen', 'vermox', 'emverm']]"
+mefloquine,[['lariam']]
+meloxicam,"[['mobic', 'mobicox', 'metacam', 'loxicom', 'meloxidyl', 'ostilox', 'eloxiject', 'vivlodex', 'eloxioral', 'qmiiz', 'alloxate', 'anjeso', 'zynrelef', 'meloxivet']]"
+memantine,"[['namenda', 'namzaric']]"
+mepivacaine,"[['carbocaine', 'isocaine', 'scandonest', 'polocaine']]"
+mepolizumab,[['nucala']]
+mesalazine,"[['canasa', 'pentasa', 'asacol', 'rowasa', 'fiv-asa', 'lialda', 'apriso', 'delzicol', 'zaldyon']]"
+mesna,[['mesnex']]
+metformin,"[['glucamet', 'glucophage', 'glucovance', 'avandamet', 'metaglip', 'riomet', 'fortamet', 'metforming', 'glumetza', 'kazano', 'jentadueto', 'prandimet', 'kombiglyze', 'janumet', 'invokamet', 'xigduo', 'synjardy', 'segluromet', 'trijardy', 'qternmet', 'zituvimet']]"
+methadone,"[['methadose', 'methex', 'physeptone', 'dolophine', 'diskets']]"
+methenamine,"[['hiprex', 'atrosept', 'cystemms-v', 'cystex', 'dolsed', 'uaa', 'urapine', 'uretron', 'urex', 'urised', 'urisedamine', 'uritin', 'uro-phosphate', 'urogesic-blue', 'urimax', 'mandelamine', 'msp-blu', 'urelle', 'mhp-a', 'usept', 'utira', 'utac', 'darcalma', 'darpaz', 'utrona-c', 'uticap', 'uribel', 'uritact', 'hyophen', 'phosphasal', 'ustell', 'prosed', 'uri-sep', 'urimar', 'uro-blue', 'uralgic', 'urolet', 'hyolev', 'uramit', 'indiomin', 'urophen']]"
+methocarbamol,"[['robaxisal', 'robaxin', 'rabdolax']]"
+methotrexate,"[['maxtrex', 'trexall', 'emtexate', 'rheumatrex', 'otrexup', 'rasuvo', 'xatmep', 'reditrex', 'jylamvo']]"
+methoxyflurane,[['penthrane']]
+methyldopa,"[['aldomet', 'aldoril', 'aldoclor']]"
+methylphenidate,"[['ritalin', 'methylin', 'concerta', 'metadate', 'daytrana', 'quillivant', 'aptensio', 'quillichew', 'cotempla', 'relexxii', 'adhansia', 'jornay']]"
+methylprednisolone,"[['depo-medrol', 'medrol', 'solu-medrol', 'a-methapred', 'hybrisil', 'neo-medrol']]"
+methysergide,[['sansert']]
+metoclopramide,"[['reglan', 'primperan', 'mygdalon', 'maxolon', 'gastroflux', 'gastromax', 'metramid', 'parmid', 'gastrese-la', 'metozolv', 'pileran', 'gimoti']]"
+metoprolol,"[['arbralene', 'betaloc', 'lopressor', 'lopresor', 'metoros', 'mepranix', 'toprol', 'dutoprol', 'kapspargo']]"
+metronidazole,"[['metrolyl', 'norzol', 'rozex', 'vaginyl', 'zadstat', 'zidoval', 'flagyl', 'metrogel', 'metrocream', 'metrolotion', 'metryl', 'noritate', 'protostat', 'metrotop', 'anabact', 'elyzol', 'nidazol', 'vandazole', 'nydamax', 'pylera', 'vitazol', 'rosadan', 'nuvessa', 'likmez']]"
+metyrapone,[['metopirone']]
+miconazole,"[['daktarin', 'gyno-daktarin', 'anti-fungal', 'baza', 'dermagran', 'desenex', 'fungoid', 'micatin', 'mitrazol', 'ony-clear', 'vagistat', 'micro-guard', 'monistat', 'secura', 'vusion', 'dermafungal', 'tetterine', 'micaderm', 'surolan', 'oravig', 'nuzole', 'inzo', 'malaseb', 'trivase', 'easotic', 'miranel', 'femmesil', 'dermasana', 'macerrx', 'micaved', 'zeasorb', 'lagicam', 'dermazole', 'vetraseb']]"
+midazolam,"[['versed', 'hypnovel', 'midazolan', 'seizalam', 'nayzilam']]"
+midodrine,"[['proamatine', 'orvaten']]"
+mifepristone,"[['mifeprex', 'korlym']]"
+miglitol,[['glyset']]
+miltefosine,[['impavido']]
+minocycline,"[['aknemin', 'blemix', 'cyclomin', 'minocin', 'minogal', 'dynacin', 'vectrin', 'dentomycin', 'arestin', 'myrac', 'solodyn', 'cleeravue-m', 'ximino', 'minolira', 'amzeeq', 'zilxi']]"
+mirtazapine,"[['remeron', 'mirataz']]"
+misoprostol,"[['arthrotec', 'cytotec']]"
+mivacurium,[['mivacron']]
+modafinil,[['provigil']]
+montelukast,[['singulair']]
+morphine,"[['m-eslon', 'oramorph', 'sevredol', 'zomorph', 'kadian', 'duramorph', 'roxanol', 'msir', 'infumorph', 'rms', 'rescudose', 'avinza', 'duromorph', 'depodur', 'embeda', 'astramorph', 'cyclimorph', 'morphabond', 'arymo', 'mitigo']]"
+moxifloxacin,"[['avelox', 'vigamox', 'moxeza']]"
+moxonidine,[['physiotens']]
+mupirocin,"[['bactroban', 'centany', 'muprocin', 'muricin', 'pirnuo']]"
+nadolol,"[['corgard', 'corgaretic', 'corzide']]"
+nafarelin,[['synarel']]
+naloxone,"[['narcan', 'suboxone', 'zubsolv', 'evzio', 'bunavail', 'targiniq', 'cassipa', 'kloxxado', 'zimhi']]"
+naltrexone,"[['revia', 'depade', 'vivitrol', 'embeda', 'contrave', 'troxyca']]"
+nandrolone,"[['durabolin', 'deca-durabolin', 'androlone-d', 'hybolin-improved', 'pri-andriol', 'nandrocot']]"
+naproxen,"[['synflex', 'arthroxen', 'laraflex', 'ec-naprosyn', 'nycopren', 'prosaid', 'rimoxyn', 'timpron', 'anaprox', 'naprosyn', 'aleve', 'naprelan', 'aflaxen', 'valrox', 'rheuflex', 'wal-proxen', 'treximet', 'vimovo']]"
+naratriptan,"[['amerge', 'trexima']]"
+nefazodone,[['serzone']]
+nelfinavir,[['viracept']]
+neostigmine,"[['prostigmin', 'bloxiverz', 'prevduo']]"
+nesiritide,[['natrecor']]
+nevirapine,[['viramune']]
+niclosamide,[['niclocide']]
+nicotine,"[['habitrol', 'nicorette', 'nicotrol', 'prostep', 'commit', 'nicorelief', 'zonnic', 'nicotac']]"
+nifedipine,"[['adalat', 'angiopine', 'calanif', 'calcilat', 'nifelease', 'adalate', 'procardia', 'calcipine', 'vasad', 'nifedical', 'nifediac']]"
+nifurtimox,[['lampit']]
+nimodipine,"[['nimotop', 'nymalize']]"
+nitisinone,"[['orfadin', 'nityr']]"
+nitrofurantoin,"[['macrobid', 'macrodantin', 'furadantin', 'urotoin']]"
+nitroglycerin,"[['coro-nitro', 'deponit', 'glytrin', 'minitran', 'nitrocine', 'nitrolingual', 'nitronal', 'percutol', 'suscard', 'nitro-dur', 'sustac', 'nitrodisc', 'nitro-bid', 'nitrol', 'nitrong', 'nitrostat', 'transderm-nitro', 'nitrek', 'nitro-par', 'nitrocot', 'nitrogard', 'nitroquick', 'gtn', 'nitrotab', 'nitromist', 'rectiv', 'gonitro']]"
+nitroprusside,[['nitropress']]
+nizatidine,"[['zinga', 'axid']]"
+norepinephrine,[['levophed']]
+norgestimate,"[['prefest', 'ortho-cyclen']]"
+nortriptyline,"[['pamelor', 'aventyl', 'notriptyline']]"
+novobiocin,"[['albamycin', 'albadry']]"
+nystatin,"[['nystan', 'nystamont', 'infestat', 'nystaform-hc', 'nystex', 'mycostatin', 'nilstat', 'bio-statin', 'mycasone', 'mycomar', 'mytrex', 'nystop', 'pedi-dri', 'myocidin', 'nyamyc', 'myco-triacet', 'mycogen', 'mycolog', 'nyst-olone', 'tri-statin', 'animax', 'dermalone']]"
+octreotide,"[['sandostatin', 'bynfezia', 'mycapssa']]"
+ofloxacin,"[['floxin', 'ocuflox']]"
+olanzapine,"[['zyprexa', 'symbyax', 'lybalvi']]"
+olsalazine,[['dipentum']]
+omalizumab,[['xolair']]
+omeprazole,"[['losec', 'prilosec', 'omesec', 'ulcergard', 'genozol', 'yosprala', 'talicia', 'konvomep']]"
+orciprenaline,"[['alupent', 'metaprel']]"
+orlistat,"[['xenical', 'alli']]"
+oseltamivir,[['tamiflu']]
+oxaliplatin,[['eloxatin']]
+oxybate,"[['xyrem', 'xywav', 'lumryz']]"
+oxybutynin,"[['ditropan', 'contimin', 'urimin', 'oxytrol', 'gelnique', 'anturol']]"
+oxycodone,"[['percodan', 'percocet', 'endodan', 'tylox', 'endocet', 'm-oxy', 'oxycontin', 'oxyfast', 'percolone', 'roxicet', 'roxicodone', 'roxilox', 'roxiprin', 'oxydose', 'taxadone', 'oxynorm', 'oxyrapid', 'combunox', 'endocodone', 'eth-oxydose', 'perloxx', 'narvox', 'magnacet', 'dazidox', 'xolox', 'oxecta', 'primalev', 'lynox', 'xartemis', 'primlev', 'targiniq', 'oxaydo', 'xtampza', 'troxyca', 'roxybond', 'nalocet', 'prolate']]"
+oxymetazoline,"[['afrin', 'four-way', 'genasal', 'nostrilla', 'ocuclear', 'oxyfrin', 'afrazine', 'nasin', 'anefrin', 'kovanaze', 'rhofade', 'upneeq']]"
+oxytocin,"[['pitocin', 'oxoject']]"
+paba,[['swineaid']]
+paclitaxel,"[['taxol', 'onxol', 'abraxane', 'paccal']]"
+pancuronium,[['pavulon']]
+panitumumab,[['vectibix']]
+pantoprazole,[['protonix']]
+papaverine,"[['papacon', 'pavacot', 'pavagen']]"
+paracetamol,"[['midrin', 'percogesic', 'percocet', 'duocet', 'talacen', 'tempra', 'vicodin', 'lortab', 'calpol', 'fanalgic', 'infadrops', 'panaleve', 'paracets', 'paramol', 'placidex', 'salzone', 'combiflex', 'fioricet', 'tylox', 'panadol', 'tylenol', 'aceta', 'aceta-gesic', 'actamin', 'alagesic', 'alidrin', 'allay', 'altenol', 'americet', 'amidrine', 'anexsia', 'anoquan', 'apacet', 'apagesic', 'apapgesic', 'apara', 'apra', 'arcet', 'axocet', 'bucet', 'bupap', 'cephadyn', 'co-gesic', 'colrex', 'conacetol', 'dolacet', 'dolagesic', 'dolgic', 'dolmar', 'dolono', 'duogesic', 'duradrin', 'ed-apap', 'endocet', 'endolor', 'esgic', 'excedrin', 'ezol', 'femcet', 'feverall', 'fiorpap', 'genace', 'genapap', 'genasec', 'genebs', 'geone', 'gericet', 'halenol', 'hy-phen', 'hyco-pap', 'hycomed', 'hydrocet', 'hydrogesic', 'ide-cet', 'infantaire', 'iso-acetazone', 'isocet', 'isocom', 'liquiprin', 'major-gesic', 'mapap', 'mardol', 'margesic', 'margesic-h', 'marten-tab', 'masophen', 'medigesic', 'midchlor', 'migquin', 'migrapap', 'migratine', 'migrazone', 'migrex', 'minotal', 'mygracet', 'norco', 'oncet', 'pacaps', 'pain-eze', 'pain-gesic', 'panacet', 'panex', 'panlor', 'pediapap', 'perisine', 'pharmagesic', 'phenagesic', 'phenylgesic', 'phrenilin', 'polygesic', 'prominol', 'q-gesic', 'q-nol', 'redutemp', 'repan', 'roxicet', 'roxilox', 'saleto', 'sedapap', 'stagesic', 'supac', 't-gesic', 't-painol', 't-panol', 'tenake', 'tencet', 'tencon', 'triaprin', 'two-dyne', 'tycolene', 'tylophen', 'ugesic', 'uni-ace', 'uni-case', 'uni-perr', 'uniserts', 'vanacet', 'vanquish', 'vendone', 'vitapap', 'vitoxapap', 'wygesic', 'zebutal', 'zydone', 'acephen', 'paldesic', 'maxidone', 'rhinoflex', 'ex-pain', 'lopap', 'contragesic', 'nonbac', 'procet', 'promacet', 'relagesic', 'ultracet', 'va-zone', 'panasorb', 'epidrin', 'staflex', 'lorcet', 'darvocet', 'migralam', 'migrend', 'taxadone', 'frenadol', 'phenco-care', 'xodol', 'ali-flex', 'dologesic', 'acuflex', 'vopac', 'hyflex', 'flextra', 'vidone', 'tylefon', 'hycet', 'levacet', 'anabar', 'ed-flex', 'lobac', 'durabac', 'novagesic', 'balacet', 'lagesic', 'alpain', 'cafgesic', 'migraten', 'migran-a', 'by-ache', 'zerlor', 'perloxx', 'narvox', 'liquicet', 'magnacet', 'codrix', 'pediaphen', 'qflex', 'propacet', 'vistra', 'trezix', 'zgesic', 'tactinal', 'cotabflu', 'zamicet', 'prodrin', 'xolox', 'triad', 'cocet', 'backprin', 'orbivan', 'pyregesic', 'tylagesic', 'zflex', 'cetazone', 'bactimicina', 'ofirmev', 'zolvit', 'arthriten', 'bf-paradac', 'duraxin', 'mejoralito', 'capacet', 'nortemp', 'acetadryl', 'sedalmex', 'xl-dol', 'ringl', 'acetadrink', 'syncol', 'pharbetol', 'un-aspirin', 'backaid', 'cetafen', 'exaprin', 'painaid', 'primalev', 'anolor', 'lynox', 'nodolor', 'xartemis', 'primlev', 'fortolin', 'verdrocet', 'ninjacof-a', 'vanatol', 'zyfrel', 'femadrine', 'sed-max', 'dolofin', 'apadaz', 'nalocet', 'dvorah', 'vtol', 'allzital', 'prolate', 'dolorex', 'combogesic']]"
+paromomycin,"[['paromycin', 'humatin']]"
+paroxetine,"[['paxil', 'pexeva', 'brisdelle']]"
+pectin,"[['kao-spen', 'kapectolin']]"
+pegloticase,[['krystexxa']]
+pegvisomant,[['somavert']]
+pemoline,"[['cylert', 'pemolert']]"
+penicillamine,"[['cuprimine', 'depen', 'd-penamine']]"
+pentamidine,"[['nebupent', 'pentam']]"
+pentazocine,"[['talwin', 'talacen', 'fortral']]"
+pepsin,[['digipepsin']]
+perphenazine,"[['fentazin', 'trilafon', 'triavil', 'duo-vil', 'etrafon']]"
+pethidine,"[['pethilorfan', 'meprozine', 'demerol']]"
+phenelzine,[['nardil']]
+phenobarbital,"[['bellergal', 'quadrinal', 'donnatal', 'antispas', 'antrocol', 'barbidonna', 'barophen', 'bellalphen', 'bellatal', 'colidrops', 'd-tal', 'donnaphen', 'donnapine', 'elixiral', 'haponal', 'hyosophen', 'hypersed', 'lufyllin-epg', 'malatal', 'mudrane', 'phenobel', 'solfoton', 'spasmolin', 'spasquid', 'spastolate', 'spastrin', 'alkabel', 'servira', 'luminal', 'bronkolixir', 'chardonna', 'b-donna', 'phenohytro', 'nobatol', 'sezaby']]"
+phenol,"[['hycolin', 'clearsol', 'campho-phenique', 'cepastat', 'unguentine', 'ulcerease', 'stingeze']]"
+phenoxybenzamine,"[['dibenyline', 'dibenzyline']]"
+phentolamine,"[['oraverse', 'ryzumvi']]"
+phenylbutazone,"[['butacote', 'butazolidin', 'butazone', 'cotylbutazone', 'butasone', 'pributazone', 'equizone', 'equi-bute', 'equi-phar', 'phenylbute', 'vetribute', 'butatron']]"
+phenylephrine,"[['cyclomydril', 'vasosulf', 'zincfrin', 'biorphen', 'dristan', 'neo-synephrine', 'ak-dilate', 'ak-nefrin', 'colrex', 'demi-cof', 'dicomal-dh', 'dicomal-ph', 'ditussin-hc', 'duo-medihaler', 'ed-tlc', 'efasin-hd', 'endagen-hd', 'endal-hd', 'enditussin-hd', 'endotuss-hd', 'enplus-hd', 'exo-tuss', 'prep-hem', 'hem-prep', 'histussin-hc', 'hyco-dh', 'hyphen-hd', 'm-phen', 'med-hist-hc', 'myci', 'mydfrin', 'nalex-dh', 'nasatuss', 'otigesic', 'pediacof', 'pedituss', 'poly-tussin', 'prefrin', 'rindal-hd', 'rolatuss', 'tuss-ds', 'tuss-hc', 'tussirex', 'tympagesic', 'vanex-hd', 'ventuss', 'despec-sf', 'rhinall', 'tussafed-hc', 'b-tuss', 'ear-gesic', 'dytan-d', 'k-tan', 'pancof-pd', 'relacon-hc', 'triant-hc', 'viravan-s', 'viravan-t', 'hist-hc', 'hist-plus', 'nasop', 'tusdec-hc', 'sudal', 'lusonal', 'tussinate', 'dytan-cs', 'dytan-hc', 'excof', 'canges-hc', 'tusana-d', 'simuc-hd', 'hydrofed', 'rynessa', 'exetuss-hc', 'relasin-hc', 'baltussin', 'aldex-ct', 'drotuss-cp', 'didone', 'carbatuss-cl', 'phena-hc', 'xyralid', 'tussplex', 'dytan-cd', 'phenyl-t', 'vazotab', 'duohist', 'rynesa', 'vanacof', 'vanex', 'notuss-pe', 'phendal-hd', 'tuss-pd', 'echotuss-hc', 'ru-hist-d', 'airacof', 'zotex-c', 'nasotuss', 'sinex', 'pluratuss', 'wal-dryl-d', 'wal-four', 'despec-pdc', 'nasopen-ch', 'vanacof-pe', 'dallergy', 'alconefrin', 'hemaway', 'sudo-tab', 'centussin', 'nikzon', 'hemorrodil', 'omidria', 'vazculep', 'immphentiv', 'mydcombi']]"
+phenytoin,"[['pentran', 'dilantin', 'epanutin', 'di-phen', 'phenytek', 'euthasol', 'somnasol', 'beuthanasia', 'euthaphen']]"
+physostigmine,[['anticholium']]
+pilocarpine,"[['isoptocarpine', 'pilogel', 'salagen', 'adsorbocarpine', 'akarpine', 'ocu-carpine', 'pilocar', 'pilostat', 'pilokair', 'pilopine', 'piloptic', 'pilagan', 'vuity']]"
+pindolol,"[['visken', 'betadren']]"
+pioglitazone,"[['actos', 'duetact', 'oseni']]"
+piperacillin,"[['zosyn', 'pipracil']]"
+pirenzepine,[['gastrotsepin']]
+piroxicam,"[['flamatrol', 'piroflam', 'pirozip', 'feldene', 'brexidol', 'larapam']]"
+podophyllin,"[['podofin', 'pododerm', 'podocon']]"
+povidone,"[['freshkote', 'minidrops', 'ivizia']]"
+povidone-iodine,"[['iodex', 'betagen', 'betadine', 'disadine', 'pharmadine', 'aerodine', 'antisept', 'clinidine', 'efodine', 'mallisol', 'minidyne', 'polydine', 'povidex', 'povidine', 'videne', 'steribath', 'triadine', 'alphadine', 'meijer', 'ovadine', 'prevail-fx', 'prevail', 'biozide', 'poviderm', 'rexall', 'loris', 'dermawound', 'apocreme']]"
+pralidoxime,"[['duodote', 'protopam']]"
+pramipexole,[['mirapex']]
+pramlintide,[['symlin']]
+prasugrel,[['effient']]
+pravastatin,[['pravachol']]
+prazosin,"[['minipress', 'alphavase', 'kentovace', 'minizide']]"
+prednisolone,"[['predsol', 'vasocidin', 'ak-pred', 'predenema', 'prednesol', 'hydeltrasol', 'ak-cide', 'blephamide', 'cetapred', 'cotolone', 'depo-predate', 'econopred', 'key-pred', 'medasulf', 'medicort', 'metimyd', 'pediapred', 'pred-g', 'predcor', 'prednisol', 'prelone', 'sulster', 'supred', 'predfoam', 'orapred', 'ocu-pred', 'ocu-pred-a', 'codelsol', 'stintisone', 'codelson', 'prednoral', 'pred-phosphate', 'predsulfair', 'pricortin', 'bubbli-pred', 'omnipred', 'flo-pred', 'millipred', 'optimyd', 'veripred', 'surolan', 'temaril-p', 'prednistab', 'solu-delta-cortef']]"
+prednisone,"[['decortisyl', 'prednicen-m', 'sterapred', 'meticorten', 'orasone', 'deltasone', 'prednicot', 'econosone', 'predone', 'rayos']]"
+primidone,[['mysoline']]
+probenecid,"[['benemid', 'polycillin-prb']]"
+procainamide,"[['pronestyl', 'procan', 'procanbid']]"
+procaine,"[['novocaine', 'mericaine']]"
+procarbazine,"[['natulan', 'matulane']]"
+prochlorperazine,"[['stemetil', 'compazine', 'compro']]"
+proguanil,[['malarone']]
+promethazine,"[['phenergan', 'q-mazine', 'm-phen', 'meprozine', 'pentazine', 'promacot', 'promethegan', 'phenadoz']]"
+propofol,"[['diprivan', 'propoven', 'propoflo', 'rapinovet', 'propovan', 'propothesia']]"
+propranolol,"[['angilol', 'apsolol', 'berkolol', 'beta-prograne', 'cardinol', 'inderal', 'propanix', 'sloprolol', 'bedranol', 'pronol', 'innopran', 'hemangeol']]"
+pyrantel,"[['combantrin', 'antiminth', 'ascarel', 'pin-x', 'drontal', 'rfd', 'nemex', 'strongid', 'equistrength', 'evict', 'vermocks', 'quadriguard', 'exodus', 'virbantel', 'parasitexx', 'iverhart', 'imectro', 'vetrishield']]"
+pyrazinamide,[['rifater']]
+quetiapine,[['seroquel']]
+quinidine,"[['quinora', 'cardioquin', 'quin-g', 'quin-release', 'quinaglute', 'kiditard', 'quinicardine', 'quinadure', 'quin-tab', 'quinidex', 'nuedexta']]"
+quinine,"[['quinamm', 'qualaquin']]"
+radium,[['xofigo']]
+raloxifene,[['evista']]
+ramelteon,[['rozerem']]
+ramipril,[['altace']]
+ranitidine,"[['zantac', 'raciran', 'tritec', 'rantec', 'zaedoc', 'taladine', 'wal-zan']]"
+rasburicase,[['elitek']]
+remifentanil,[['ultiva']]
+repaglinide,"[['prandin', 'novonorm', 'prandimet']]"
+resorcinol,"[['acnomel', 'acnotex', 'bensulfoid', 'rezamid', 'sulforcin', 'resinol']]"
+retinol,"[['poly-vi-sol', 'tri-vi-sol', 'viva-drops', 'multi-delyn', 'lactocal', 'vitafol-one', 'infuvite']]"
+ribavirin,"[['virazole', 'copegus', 'rebetol', 'ribasphere', 'ribatab', 'moderiba']]"
+rifampin,"[['rifater', 'rifadin', 'rimactane', 'rifamate', 'isonarif']]"
+rifaximin,[['xifaxan']]
+riluzole,"[['rilutek', 'tiglutik', 'exservan', 'teglutik']]"
+risedronate,[['actonel']]
+ritonavir,"[['norvir', 'kaletra', 'technivie']]"
+rituximab,"[['rituxan', 'truxima', 'ruxience', 'riabni']]"
+rivaroxaban,[['xarelto']]
+rivastigmine,[['exelon']]
+rizatriptan,"[['maxalt', 'rizaport', 'rizafilm']]"
+rocuronium,[['zemuron']]
+romiplostim,[['nplate']]
+ropinirole,[['requip']]
+ropivacaine,[['naropin']]
+rosuvastatin,"[['crestor', 'ezallor', 'roszet']]"
+ruxolitinib,"[['jakafi', 'opzelura']]"
+sacubitril,[['entresto']]
+salbutamol,"[['ventolin', 'combivent', 'salbulin', 'volmax', 'libetist', 'proventil', 'airet', 'asmaven', 'duoneb', 'arm-a-med', 'accuneb', 'vospire', 'salbuvent', 'cobutolin', 'proair', 'airsupra']]"
+salmeterol,"[['serevent', 'advair', 'airduo', 'wixela']]"
+saquinavir,"[['invirase', 'fortovase']]"
+scopolamine,"[['donnatal', 'antispas', 'barbidonna', 'barophen', 'bellalphen', 'bellatal', 'colidrops', 'd-tal', 'donnaphen', 'donnapine', 'elixiral', 'haponal', 'hyosophen', 'hypersed', 'malatal', 'phenobel', 'scopace', 'spasmolin', 'spasquid', 'spastolate', 'transderm-scop', 'maldemar', 'alkabel', 'servira', 'chardonna', 'b-donna', 'phenohytro']]"
+secretin,[['secretin-ferring']]
+selegiline,"[['carbex', 'eldepryl', 'stilline', 'centrapryl', 'vivapryl', 'atapryl', 'emsam', 'zelapar', 'anipryl']]"
+senna,"[['senokot', 'dosaflex', 'senexon', 'senokot-s', 'senolax', 'uni-cenna', 'lax-ease', 'senosol', 'senosol-ss', 'senna-time', 'peri-colace', 'pedia-lax', 'senexon-s', 'purgasol', 'laxacin']]"
+sertraline,[['zoloft']]
+sevelamer,"[['renagel', 'renvela']]"
+sevoflurane,"[['ultane', 'petrem', 'sojourn', 'sevothesia', 'sevosol', 'sevoflo']]"
+sildenafil,"[['viagra', 'revatio', 'liqrev']]"
+simeprevir,[['olysio']]
+simvastatin,"[['zocor', 'vytorin', 'simcor', 'juvisync', 'flolipid']]"
+sitagliptin,"[['januvia', 'janumet', 'juvisync', 'steglujan', 'zituvio', 'zituvimet']]"
+sofosbuvir,"[['sovaldi', 'harvoni', 'epclusa', 'vosevi']]"
+sorbitol,[['arlex']]
+spironolactone,"[['aldactazide', 'aldactone', 'spiretic', 'spiroctan', 'spirolone', 'spirospare', 'spironol', 'diatensec', 'laractone', 'carospir', 'cardalis']]"
+stanozolol,[['winstrol']]
+stavudine,[['zerit']]
+streptokinase,"[['kabikinase', 'streptase']]"
+succimer,[['chemet']]
+sufentanil,"[['sufenta', 'dsuvia']]"
+sulbactam,"[['unasyn', 'xacduro']]"
+sulfadiazine,"[['uniprim', 'rebalance', 'tucoprim']]"
+sulfamethoxazole,"[['bactrim', 'comixco', 'fectrim', 'laratrim', 'cotrim', 'septra', 'septrin', 'bethaprim', 'sulfatrim', 'uroplus', 'gantanol', 'comox', 'bacter-aid']]"
+sulfasalazine,"[['azulfidine', 'ucine', 'sulfazine']]"
+sulindac,[['clinoril']]
+sumatriptan,"[['imitrex', 'trexima', 'treximet', 'alsuma', 'zecuity', 'sumavel', 'zembrace', 'onzetra', 'tosymra']]"
+suxamethonium,"[['quelicin', 'anectine']]"
+tacrolimus,"[['prograf', 'protopic', 'hecoria', 'astagraf', 'envarsus']]"
+tadalafil,"[['cialis', 'adcirca', 'alyq', 'entadfi', 'tadliq', 'opsynvi']]"
+tamoxifen,"[['emblon', 'fentamox', 'nolvadex-d', 'oestrifen', 'tamofen', 'nolvadex', 'noltam', 'soltamox']]"
+tamsulosin,"[['flomax', 'jalyn']]"
+taurine,"[['trophamine', 'premasol']]"
+tazarotene,"[['zorac', 'tazorac', 'avage', 'fabior', 'duobrii', 'arazlo']]"
+tazobactam,"[['zosyn', 'zerbaxa']]"
+teicoplanin,[['targocid']]
+telmisartan,"[['micardis', 'micardis-hct', 'twynsta', 'semintra']]"
+temazepam,"[['normison', 'euhypnos', 'restoril']]"
+terazosin,"[['hytrin', 'terazoisin', 'terazoosin']]"
+terbinafine,"[['lamisil', 'terbinex', 'claro', 'simplera']]"
+terbutaline,"[['bricanyl', 'brethine', 'brethaire']]"
+teriparatide,[['forteo']]
+tetrabenazine,"[['nitoman', 'xenazine']]"
+tetracycline,"[['topicycline', 'panmycin', 'ala-tet', 'brodspec', 'sumycin', 'achromycin', 'actisite', 'tetracap', 'tetracon', 'pylera', 'ornacycline', 'diabecline', 'viabecline', 'vitastem']]"
+tetrahydrobiopterin,"[['kuvan', 'javygtor']]"
+thalidomide,[['thalomid']]
+theophylline,"[['quadrinal', 'quibron-t', 'lasma', 'slo-phyllin', 'theodur', 'theo-dur', 'theovent', 'uniphyl', 'theospan', 'theolair', 'theobid', 'sustaire', 'elixophyllin', 'bronkodyl', 'aquaphyllin', 'aerolate', 'theochron', 't-phyl', 'slo-bid', 'respbid', 'ami-rax', 'asmalix', 'bronchial', 'elixophyllin-gg', 'marax', 'q-b', 'quibron', 'theo-time', 'theo-x', 'theocon', 'theolate', 'theophyll-gg', 'truxophyllin', 'uni-dur', 'theo-sav', 'biophylline', 'labophylline', 'theograd', 'pro-vent', 'theoclear', 'h-quib', 'broncodur', 'theocap', 'bronkolixir']]"
+thrombin,"[['thrombogen', 'tisseel', 'thrombin-jmi', 'evithrom', 'recothrom', 'artiss', 'tachosil', 'raplixa', 'evarrest', 'evicel', 'vistaseal']]"
+thyroxine,"[['thyrolar', 'soloxine', 'eltroxin', 'euthyrox', 'levo-t', 'levotabs', 'levothroid', 'levoxyl', 'synthroid', 'unithroid', 'thyrox', 'novothyrox', 'estre', 'tirosint', 'leventa', 'thyro-tabs', 'thyromed', 'thyrokare', 'levocrine', 'thyquidity', 'ermeza', 'thyrocryn']]"
+tibolone,[['livial']]
+ticagrelor,[['brilinta']]
+ticlopidine,[['ticlid']]
+timolol,"[['blocadren', 'timoptic', 'timoptol', 'betim', 'glaucol', 'glau-opt', 'betimol', 'cosopt', 'timolide', 'istalol', 'combigan']]"
+tiotropium,"[['spiriva', 'stiolto']]"
+tirofiban,[['aggrastat']]
+tizanidine,[['zanaflex']]
+tocilizumab,"[['actemra', 'tyenne']]"
+tolazoline,"[['tolazine', 'tolazil']]"
+tolbutamide,"[['orinase', 'tol-tab']]"
+tolterodine,[['detrol']]
+tolvaptan,"[['samsca', 'jynarque']]"
+topiramate,"[['topamax', 'topiragen', 'qsymia', 'trokendi', 'qudexy', 'eprontia']]"
+topotecan,[['hycamtin']]
+tramadol,"[['zydol', 'tramake', 'zamadol', 'ultram', 'ultracet', 'tramalgin', 'ryzolt', 'rybix', 'conzip', 'qdolo', 'seglentis']]"
+trazodone,"[['desyrel', 'molipaxin', 'oleptro']]"
+triamcinolone,"[['adcortyl', 'ledercort', 'lederspan', 'nasacort', 'aristocort', 'kenalog', 'azmacort', 'aristospan', 'acetocot', 'amcort', 'aricin', 'aristopak', 'cort-k', 'flutex', 'mycasone', 'mycomar', 'mytrex', 'tri-kort', 'tri-med', 'triacet', 'triamcot', 'trilog', 'trilone', 'tristoject', 'u-tri-lone', 'tri-nasal', 'cinalog', 'cinolar', 'clinacort', 'clinalog', 'cortinide', 'robalog', 'trilocort', 'cinolone', 'cortilone', 'oralone', 'myocidin', 'triesence', 'zytopic', 'trivaris', 'allernaze', 'myco-triacet', 'mycogen', 'mycolog', 'nyst-olone', 'tri-statin', 'delta-tritex', 'tac', 'ken-jec', 'kenaject', 'tramacort', 'triam', 'triamonide', 'cenocort', 'trianex', 'animax', 'cortalone', 'vetalog', 'genesis', 'zilretta', 'dermalone', 'aller-cort', 'hexatrione', 'tritocin', 'xipere', 'kourzeq']]"
+triamterene,"[['dyazide', 'maxzide', 'dyrenium']]"
+triazolam,[['halcion']]
+triclosan,"[['dermasana', 'fungasol']]"
+trifluoperazine,[['stelazine']]
+trihexyphenidyl,"[['artane', 'broflex', 'trihexane', 'bentex']]"
+trimethaphan,[['arfonad']]
+trimethoprim,"[['polytrim', 'bactrim', 'comixco', 'fectrim', 'laratrim', 'cotrim', 'septra', 'septrin', 'bethaprim', 'sulfatrim', 'uroplus', 'trimpex', 'proloprim', 'primsol', 'comox', 'bacter-aid', 'uniprim', 'tucoprim']]"
+trimipramine,[['surmontil']]
+triprolidine,"[['actifed', 'actidil', 'a-phedrin', 'actacin', 'actagen', 'actamine', 'actedril', 'allercon', 'allerfrim', 'altafed', 'atrofed', 'atrogen', 'genac', 'hista-tabs', 'histafed', 'tri-pseudo', 'tri-sudo', 'triafed', 'triphed', 'triptifed', 'trisofed', 'vi-sudo', 'trisudrine', 'zymine', 'acticon', 'zymine-d', 'tripohist', 'hist-pse', 'wal-act', 'vanaclear']]"
+triptorelin,"[['trelstar', 'triptodur']]"
+tropicamide,"[['tropicacyl', 'mydriacyl', 'mydral', 'opticyl', 'paremyd', 'ocu-tropic', 'eyemyd', 'mydcombi']]"
+trospium,[['sanctura']]
+trypsin,"[['granulex', 'dermuspray', 'granul-derm', 'granulderm', 'granumed', 'xenaderm', 'optase', 'allanderm', 'revina', 'vasolex']]"
+tryptophan,"[['trophamine', 'optimax', 'nephramine', 'pacitron', 'hepatasol', 'aminomine', 'prosol', 'premasol', 'restone', 'somnicin', 'plenamine']]"
+ubiquinone,"[['nutradrops', 'liqsorb', 'quinzyme', 'q-gel', 'q-up', 'q-sorb']]"
+ulipristal,[['ella']]
+valproate,"[['epilim', 'depakene', 'depacon', 'depakote', 'stavzor']]"
+valsartan,"[['diovan', 'exforge', 'valturna', 'entresto', 'byvalson']]"
+vancomycin,"[['vancocin', 'firvanq']]"
+vasopressin,"[['pitressin', 'vasostrict']]"
+vecuronium,[['norcuron']]
+verapamil,"[['cordilox', 'berkatens', 'securon', 'hypaneze', 'tarka', 'isoptin', 'calan', 'verelan', 'univer', 'geangin', 'covera']]"
+vigabatrin,"[['sabril', 'vigadrone', 'vigpoder']]"
+vincristine,"[['vincasar', 'marqibo']]"
+vorapaxar,[['zontivity']]
+voriconazole,[['vfend']]
+warfarin,"[['coumadin', 'jantoven', 'narfarin', 'marfarin']]"
+yohimbine,"[['yohimex', 'actibine', 'yocon', 'aphrodyne', 'dayto-himbin', 'erex', 'mederek', 'testomar', 'thybine', 'yohimar', 'yoman', 'yovital', 'yobine']]"
+zafirlukast,[['accolate']]
+zidovudine,"[['combivir', 'retrovir', 'trizivir']]"
+zileuton,[['zyflo']]
+ziprasidone,[['geodon']]
+zonisamide,"[['zonegran', 'zonisade']]"
