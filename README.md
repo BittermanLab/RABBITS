@@ -62,7 +62,7 @@ Each dataset is processed to create three subsets: a subset that is filtered to 
 `RABBITS_figs.ipynb` - contains the code to create the figures in the paper
 
 # Citing
-
+```
 @article{gallifant2024rabbits,
   title={Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks},
   author={Gallifant, Jack and Chen, Shan and Moreira, Pedro and Munch, Nikolaj and Gao, Mingye and Pond, Jackson and Aerts, Hugo and Celi, Leo Anthony and Hartvigsen, Thomas and Bitterman, Danielle S.},
@@ -70,3 +70,4 @@ Each dataset is processed to create three subsets: a subset that is filtered to 
   year={2024},
   note={17 Jun 2024}
 }
+```
