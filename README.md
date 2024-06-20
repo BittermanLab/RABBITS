@@ -1,4 +1,4 @@
-# RABBITS: Robustness Assessment with Brand-generic Substitution in Clinical Knowledge
+# RABBITS: Robust Assessment of Biomedical Benchmarks Involving drug Term Substitutions
 
 <!-- exclude_docs -->
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE.txt)
