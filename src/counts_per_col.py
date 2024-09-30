@@ -333,13 +333,13 @@ if __name__ == "__main__":
     parser.add_argument(
         "--brand_to_generic_csv_path",
         type=str,
-        default="RxNorm_eval/filtered_keywords.csv",
+        default="./data/filtered_keywords.csv",
         help="Path to the CSV file containing brand to generic drug mappings.",
     )
     parser.add_argument(
         "--generic_to_brand_csv_path",
         type=str,
-        default="RxNorm_eval/filtered_keywords.csv",
+        default="./data/filtered_keywords.csv",
         help="Path to the CSV file containing generic to brand drug mappings.",
     )
     parser.add_argument(

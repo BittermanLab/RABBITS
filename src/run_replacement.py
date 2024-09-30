@@ -24,17 +24,7 @@ logging.basicConfig(
 # Datasets and their columns of interest
 DATASETS = {
     "medmcqa": ["question", "opa", "opb", "opc", "opd"],
-    # "bigbio/pubmed_qa": ["CONTEXTS", "QUESTION"],
     "GBaker/MedQA-USMLE-4-options-hf": ["sent1", "ending0", "ending1", "ending3"],
-    # "augtoma/usmle_step_1": ["question", "options"],
-    # "augtoma/usmle_step_2": ["question", "options"],
-    # "augtoma/usmle_step_3": ["question", "options"],
-    # "hails/mmlu_no_train/anatomy": ["question", "choices"],
-    # "hails/mmlu_no_train/clinical_knowledge": ["question", "choices"],
-    # "hails/mmlu_no_train/college_medicine": ["question", "choices"],
-    # "hails/mmlu_no_train/medical_genetics": ["question", "choices"],
-    # "hails/mmlu_no_train/professional_medicine": ["question", "choices"],
-    # "hails/mmlu_no_train/college_biology": ["question", "choices"],
 }
 
 

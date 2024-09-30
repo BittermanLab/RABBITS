@@ -46,10 +46,12 @@ The following datasets are transformed and analyzed in the RABBITS project:
 Each dataset is processed to create three subsets: a subset that is filtered to questions that contain a drug keyword then two other variants, one with brand names replaced by generic names and another with generic names replaced by brand names. These transformations test the model's ability to maintain accuracy despite changes in clinically equivalent terminology.
 
 
-## Drug Names
-`src/get_full_drugs.ipynb` - creates the final list of brand and generic drug pairs using the `RxNorm` dataset. It also includes the api calls to check brand names for each generic drug which was used during the quality assurance process.
-`src/generic_to_brand.csv` - contains the final list of generic to brand drug names
-`src/filter_drug_names.ipynb` - filters the drug names to only include those questions that were accepted during the quality assurance process
+## Drug Names
+`data/generic_to_brand.csv` - contains the list of generic to brand drug names searched for in the dataset
+`data/annotations.csv` - The annotated questions for correct replacement of drug names that is used to filter the dataset for creating the final dataset. 
+`src/get_drug_list.py` - creates a list of brand and generic drug pairs using the `RxNorm` dataset (should be in data/RxNorm). 
+`src/get_rag_names.py` - Creates api calls to cohere to check brand names for each generic drug which was used during the quality assurance process.
+`src/generate_final_questions.py` - filters the drug names to only include those questions that were accepted during the quality assurance process
 
 ## Keyword Extraction
 `src/drug_mapping` - contains the code to create brand-generic drug mappings
