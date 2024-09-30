@@ -46,10 +46,9 @@ The following datasets are transformed and analyzed in the RABBITS project:
 Each dataset is processed to create three subsets: a subset that is filtered to questions that contain a drug keyword then two other variants, one with brand names replaced by generic names and another with generic names replaced by brand names. These transformations test the model's ability to maintain accuracy despite changes in clinically equivalent terminology.
 
 
-## Drug Names
-`src/get_full_drugs.ipynb` - creates the final list of brand and generic drug pairs using the `RxNorm` dataset. It also includes the api calls to check brand names for each generic drug which was used during the quality assurance process.
-`src/generic_to_brand.csv` - contains the final list of generic to brand drug names
-`src/filter_drug_names.ipynb` - filters the drug names to only include those questions that were accepted during the quality assurance process
+## Drug Names
+`data/generic_to_brand.csv` - contains the list of generic to brand drug names searched for in the dataset
+`src/get_drug_list.py` - creates a list of brand and generic drug pairs using the `RxNorm` dataset (should be in data/RxNorm). 
 
 ## Keyword Extraction
 `src/drug_mapping` - contains the code to create brand-generic drug mappings
@@ -57,17 +56,65 @@ Each dataset is processed to create three subsets: a subset that is filtered to 
 `src/run_replacement.py` - runs the keyword replacement on the filtered datasets
 `src/counts_per_col.py` - counts the number of times each word appears in each column of the dataset e.g. question vs answers
 
+## Annotations
+`src/get_rag_names.py` - Creates api calls to cohere to check brand names for each generic drug which was used during the quality assurance process.
+`data/annotated_medqa_new.csv` and `data/annotated_medmcqa_new.csv` - The annotated questions for correct replacement of drug names that is used to filter the dataset for creating the final dataset. 
+`src/generate_final_questions.py` - filters the drug names to only include those questions that were accepted during the quality assurance process
+
+Each row in the annotation files represents a question and includes the following key information:
+
+- Original question and answer choices
+- Generic-to-brand (g2b) transformed question and answer choices
+- Found keywords in the original question
+- Decision to keep or drop the question
+- Any additional comments
+
+### Example Annotation
+
+Here's an example of how the annotations are structured:
+
+```
+id	question_orig	opa_orig	opb_orig	opc_orig	opd_orig	cop_orig	choice_type_orig	exp_orig	subject_name_orig	topic_name_orig	found_keywords_orig	local_id_orig	Unnamed: 13	question_g2b	opa_g2b	opb_g2b	opc_g2b	opd_g2b	cop_g2b	choice_type_g2b	exp_g2b	subject_name_g2b	topic_name_g2b	found_keywords_g2b	local_id_g2b	Unnamed: 26	keep/drop	comments
+006acfff-dc8f-4bb5-97b2-e26144c56483	PGE1 analogue is ?	Carboprost	Alprostadil	Epoprostenol	Dinoprostone	-1	single	NaN	Pharmacology	NaN	['carboprost' 'dinoprostone' 'alprostadil' 'epoprostenol']	4101	NaN	PGE1 analogue is ?	hemabate	caverject	flolan	cervidil	-1	single	NaN	Pharmacology	NaN	['carboprost' 'dinoprostone' 'alprostadil' 'epoprostenol']	4101	NaN	keep	NaN
+```
+
+In this example:
+- The original question asks about PGE1 analogues, with generic drug names as options.
+- The g2b transformation replaces these with corresponding brand names (e.g., Carboprost → hemabate).
+- The found keywords are listed, showing which drug names were identified.
+- The 'keep/drop' column indicates that this question should be kept in the final dataset.
+
+
 ## Results
 `src/create_benchmarks.py` - creates a benchmark for Hugging Face and pushes it to the hub
-`RABBITS_figs.ipynb` - contains the code to create the figures in the paper
+`src/create_plots.py` - contains the code to create the figures in the paper
+
+[Harness](https://github.com/EleutherAI/lm-evaluation-harness) was used to evaluate the benchmark -- our specific fork of harness used can be found [here](https://github.com/Gallifantjack/lm-evaluation-harness/tree/main)
+
+To run the benchmark you can run the equivalent code to below in the terminal after installing this fork as a package.
+``` sh
+lm_eval --model hf \
+    --model_args pretrained=EleutherAI/gpt-j-6B \
+    --tasks b4b \
+    --device cuda:0 \
+    --batch_size 8
+```
+This contains the following tasks:   
+  - medmcqa_orig_filtered
+  - medqa_4options_orig_filtered
+  - medmcqa_g2b
+  - medqa_4options_g2b
+
+The main results in can be found in `rabbit_results.csv` to reproduce the main paper figure.
 
 # Citing
 ```
-@article{gallifant2024rabbits,
+@inproceedings{
+  anonymous2024language,
   title={Language Models are Surprisingly Fragile to Drug Names in Biomedical Benchmarks},
-  author={Gallifant, Jack and Chen, Shan and Moreira, Pedro and Munch, Nikolaj and Gao, Mingye and Pond, Jackson and Aerts, Hugo and Celi, Leo Anthony and Hartvigsen, Thomas and Bitterman, Danielle S.},
-  journal={arXiv preprint arXiv:2406.12066v1 [cs.CL]},
+  author={Anonymous},
+  booktitle={The 2024 Conference on Empirical Methods in Natural Language Processing},
   year={2024},
-  note={17 Jun 2024}
+  url={https://openreview.net/forum?id=T5taTxsNb3}
 }
 ```
