@@ -72,10 +72,10 @@ Each row in the annotation files represents a question and includes the followin
 ### Example Annotation
 
 Here's an example of how the annotations are structured:
-
 ```
-id	question_orig	opa_orig	opb_orig	opc_orig	opd_orig	cop_orig	choice_type_orig	exp_orig	subject_name_orig	topic_name_orig	found_keywords_orig	local_id_orig	Unnamed: 13	question_g2b	opa_g2b	opb_g2b	opc_g2b	opd_g2b	cop_g2b	choice_type_g2b	exp_g2b	subject_name_g2b	topic_name_g2b	found_keywords_g2b	local_id_g2b	Unnamed: 26	keep/drop	comments
-006acfff-dc8f-4bb5-97b2-e26144c56483	PGE1 analogue is ?	Carboprost	Alprostadil	Epoprostenol	Dinoprostone	-1	single	NaN	Pharmacology	NaN	['carboprost' 'dinoprostone' 'alprostadil' 'epoprostenol']	4101	NaN	PGE1 analogue is ?	hemabate	caverject	flolan	cervidil	-1	single	NaN	Pharmacology	NaN	['carboprost' 'dinoprostone' 'alprostadil' 'epoprostenol']	4101	NaN	keep	NaN
+| id | question_orig | opa_orig | opb_orig | opc_orig | opd_orig | cop_orig | choice_type_orig | exp_orig | subject_name_orig | topic_name_orig | found_keywords_orig | local_id_orig | question_g2b | opa_g2b | opb_g2b | opc_g2b | opd_g2b | cop_g2b | choice_type_g2b | exp_g2b | subject_name_g2b | topic_name_g2b | found_keywords_g2b | local_id_g2b | keep/drop | comments |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 006acfff-dc8f-4bb5-97b2-e26144c56483 | PGE1 analogue is ? | Carboprost | Alprostadil | Epoprostenol | Dinoprostone | -1 | single | | Pharmacology | | ['carboprost' 'dinoprostone' 'alprostadil' 'epoprostenol'] | 4101 | PGE1 analogue is ? | hemabate | caverject | flolan | cervidil | -1 | single | | Pharmacology | | ['carboprost' 'dinoprostone' 'alprostadil' 'epoprostenol'] | 4101 | keep | |
 ```
 
 In this example:
@@ -105,7 +105,7 @@ This contains the following tasks:
   - medmcqa_g2b
   - medqa_4options_g2b
 
-The main results in can be found in `rabbit_results.csv` to reproduce the main paper figure.
+The overall results used to produce the main figure can be found in `rabbit_results.csv`.
 
 # Citing
 ```
