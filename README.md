@@ -105,6 +105,7 @@ This contains the following tasks:
   - medmcqa_g2b
   - medqa_4options_g2b
 
+The main results in can be found in `rabbit_results.csv` to reproduce the main paper figure.
 
 # Citing
 ```

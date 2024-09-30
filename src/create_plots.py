@@ -4,8 +4,8 @@ import seaborn as sns
 
 
 def plot_b4bqa_bar_graph(data):
-    # Drop rows with missing values in b4bqa
-    data_clean = data.dropna(subset=["b4bqa"])
+    # Drop rows with missing values
+    data_clean = data.dropna()
 
     # Sort data by model size
     sorted_data = data_clean.sort_values(by="size")
@@ -36,85 +36,16 @@ def plot_b4bqa_bar_graph(data):
 
 
 def plot_avg_orig_vs_avg_g2b_with_larger_fonts(data):
-    # Drop rows with missing values in avg_orig or avg_g2b
-    data_clean = data.dropna(subset=["avg_orig", "avg_g2b"])
 
-    # Create the scatter plot
-    plt.figure(figsize=(12, 7))
-    scatter = sns.scatterplot(
-        x="avg_orig",
-        y="avg_g2b",
-        hue="Model",
-        style="Model",
-        s=100,
-        palette=pal,  # pal,
-        data=data_clean,
-    )
+    # Rename columns to match the function expectations
+    data = data.rename(columns={"Original": "avg_orig", "g2b": "avg_g2b"})
 
-    # Adding grid and diagonal line
-    # plt.grid(True)
-    plt.plot(
-        [data_clean["avg_orig"].min(), data_clean["avg_orig"].max()],
-        [data_clean["avg_orig"].min(), data_clean["avg_orig"].max()],
-        "k--",
-    )
-
-    # Labeling the axes with larger font size
-    plt.xlabel("Acc with No Replacement", fontsize=14)
-    plt.ylabel("Acc with Generic to Brand Replacement", fontsize=14)
-
-    # Adding title with larger font size
-    plt.title("Acc of Original vs Generic to Brand Replacement on RABBITS", fontsize=16)
-
-    # Create custom legend with larger font size
-    handles, labels = scatter.get_legend_handles_labels()
-    new_labels = []
-    for i, label in enumerate(labels[1:]):
-        model_name = label.split(" | ")[0]
-        avg_orig_value = data_clean[data_clean["Model"] == model_name][
-            "avg_orig"
-        ].values[0]
-        avg_g2b_value = data_clean[data_clean["Model"] == model_name]["avg_g2b"].values[
-            0
-        ]
-        new_labels.append(
-            f"{model_name} | orig: {avg_orig_value:.2f}, g2b: {avg_g2b_value:.2f}"
-        )
-
-    # Removing the original legend
-    scatter.legend_.remove()
-
-    # Adding the new custom legend
-    plt.legend(
-        handles=handles[1:],
-        labels=new_labels,
-        bbox_to_anchor=(1.05, 1),
-        loc="upper left",
-        fontsize=12,
-        title_fontsize="13",
-    )
-
-    # Adding background shading
-    plt.axhspan(20, 40, facecolor="lightgrey", alpha=0.5)
-    plt.axhspan(40, 60, facecolor="lightblue", alpha=0.5)
-    plt.axhspan(60, 80, facecolor="lightgreen", alpha=0.5)
-    plt.axhspan(80, 100, facecolor="lightyellow", alpha=0.5)
-
-    # Show the plot with larger tick labels
-    plt.xticks(fontsize=12)
-    plt.yticks(fontsize=12)
-    plt.ylim(20, 100)
-    plt.tight_layout()
-    # plt.show()
-
-
-def plot_avg_orig_vs_avg_g2b_with_larger_fonts(data):
     # Drop rows with missing values in avg_orig or avg_g2b
     data_clean = data.dropna(subset=["avg_orig", "avg_g2b"])
 
     # Define a diverse color palette and ensure it has enough colors
     unique_models = data_clean["Model"].unique()
-    palette = sns.color_palette("husl", 23)
+    palette = sns.color_palette("husl", len(unique_models))
 
     # Define marker styles for different groups
     model_shapes = {
@@ -192,7 +123,7 @@ def plot_avg_orig_vs_avg_g2b_with_larger_fonts(data):
             )
         )
         labels.append(
-            f"{row['Model']} | orig: {row['avg_orig']:.2f}, g2b: {row['avg_g2b']:.2f}"
+            f"{row['Model']} | orig: {row['avg_orig']:.2f}, g2b: {row['avg_g2b']:.2f}, diff: {row['Difference']:.2f}"
         )
 
     plt.legend(
@@ -200,8 +131,8 @@ def plot_avg_orig_vs_avg_g2b_with_larger_fonts(data):
         labels,
         bbox_to_anchor=(1.05, 1),
         loc="upper left",
-        fontsize=12,
-        title_fontsize="13",
+        fontsize=10,  # Reduced font size to fit longer legend
+        title_fontsize="12",
     )
 
     # Adjusting the background shading to be less obtrusive
@@ -215,7 +146,7 @@ def plot_avg_orig_vs_avg_g2b_with_larger_fonts(data):
     plt.yticks(fontsize=12)
     plt.ylim(20, 100)
     plt.tight_layout()
-    plt.savefig("b4b_tight.png", dpi=300)
+    plt.savefig("rabbits_plot.png", dpi=300)
 
 
 def plot_side_by_side_medqa_medmcqa_diff(data):
@@ -254,10 +185,8 @@ def plot_side_by_side_medqa_medmcqa_diff(data):
     # plt.show()
 
 
-# export figure in high resolution
-plt.savefig("accuracy_difference_generic_to_brand.png", dpi=300)
 if __name__ == "__main__":
-    data = pd.read_csv("../results/rabbits_results - Sheet1.csv")
+    data = pd.read_csv("results/rabbit_results.csv")
 
     # rename model row phi-1_5 to phi1.5
     data["Model"] = data["Model"].replace("phi-1_5", "phi1.5")
@@ -266,74 +195,73 @@ if __name__ == "__main__":
     pal = sns.color_palette("viridis", len(data["Model"]))  # viridis
 
     # Scaling law
-    plot_b4bqa_bar_graph(data)
-    plt.savefig("b4bqa.png", dpi=300)
+    # plot_b4bqa_bar_graph(data)
+    # plt.savefig("b4bqa.png", dpi=300)
 
     # Main comparison plot
     plot_avg_orig_vs_avg_g2b_with_larger_fonts(data)
-    plt.savefig("b4b_tight.png", dpi=300)
 
-    # Side by side dataset
-    plot_side_by_side_medqa_medmcqa_diff(data)
-    plt.savefig("accuracy_difference_generic_to_brand.png", dpi=300)
+    # # Side by side dataset
+    # plot_side_by_side_medqa_medmcqa_diff(data)
+    # plt.savefig("accuracy_difference_generic_to_brand.png", dpi=300)
 
-    # generate latex table
-    new_table_data = []
-    column_mapping = {"medmcqa_g2b": "g2b", "medmcqa_orig_filtered": "original"}
+    # # generate latex table
+    # new_table_data = []
+    # column_mapping = {"medmcqa_g2b": "g2b", "medmcqa_orig_filtered": "original"}
 
-    for _, row in data.iterrows():
-        new_table_data.append(
-            {
-                "Dataset": "medmcqa",
-                "Model": row["Model"],
-                "g2b": row["medmcqa_g2b"],
-                "original": row["medmcqa_orig_filtered"],
-            }
-        )
-        new_table_data.append(
-            {
-                "Dataset": "medqa 4options",
-                "Model": row["Model"],
-                "g2b": row["medqa_4options_g2b"],
-                "original": row["medqa_4options_orig_filtered"],
-            }
-        )
+    # for _, row in data.iterrows():
+    #     new_table_data.append(
+    #         {
+    #             "Dataset": "medmcqa",
+    #             "Model": row["Model"],
+    #             "g2b": row["medmcqa_g2b"],
+    #             "original": row["medmcqa_orig_filtered"],
+    #         }
+    #     )
+    #     new_table_data.append(
+    #         {
+    #             "Dataset": "medqa 4options",
+    #             "Model": row["Model"],
+    #             "g2b": row["medqa_4options_g2b"],
+    #             "original": row["medqa_4options_orig_filtered"],
+    #         }
+    #     )
 
-    new_table_df = pd.DataFrame(new_table_data)
+    # new_table_df = pd.DataFrame(new_table_data)
 
-    # Sorting the dataframe for better readability
-    new_table_df = new_table_df.sort_values(by=["Dataset", "Model"])
+    # # Sorting the dataframe for better readability
+    # new_table_df = new_table_df.sort_values(by=["Dataset", "Model"])
 
-    # Print the dataframe in LaTeX tabular format
-    latex_table = new_table_df.to_latex(index=False, float_format="%.2f")
-    latex_table
+    # # Print the dataframe in LaTeX tabular format
+    # latex_table = new_table_df.to_latex(index=False, float_format="%.2f")
+    # latex_table
 
-    ## Summary version
-    # Creating the new summary table dataframe
-    summary_table_data = []
+    # ## Summary version
+    # # Creating the new summary table dataframe
+    # summary_table_data = []
 
-    for _, row in data.iterrows():
-        if (
-            pd.notna(row["avg_orig"])
-            and pd.notna(row["avg_g2b"])
-            and pd.notna(row["avg_diff"])
-        ):
-            summary_table_data.append(
-                {
-                    "Model": row["Model"],
-                    "Original": row["avg_orig"],
-                    "g2b": row["avg_g2b"],
-                    "Average": (row["avg_orig"] + row["avg_g2b"]) / 2,
-                    "Difference": row["avg_diff"],
-                }
-            )
+    # for _, row in data.iterrows():
+    #     if (
+    #         pd.notna(row["avg_orig"])
+    #         and pd.notna(row["avg_g2b"])
+    #         and pd.notna(row["avg_diff"])
+    #     ):
+    #         summary_table_data.append(
+    #             {
+    #                 "Model": row["Model"],
+    #                 "Original": row["avg_orig"],
+    #                 "g2b": row["avg_g2b"],
+    #                 "Average": (row["avg_orig"] + row["avg_g2b"]) / 2,
+    #                 "Difference": row["avg_diff"],
+    #             }
+    #         )
 
-    summary_table_df = pd.DataFrame(summary_table_data)
+    # summary_table_df = pd.DataFrame(summary_table_data)
 
-    # Sorting the dataframe for better readability
-    summary_table_df = summary_table_df.sort_values(by=["Model"])
+    # # Sorting the dataframe for better readability
+    # summary_table_df = summary_table_df.sort_values(by=["Model"])
 
-    # Print the dataframe in LaTeX tabular format
-    summary_latex_table = summary_table_df.to_latex(index=False, float_format="%.2f")
+    # # Print the dataframe in LaTeX tabular format
+    # summary_latex_table = summary_table_df.to_latex(index=False, float_format="%.2f")
 
-    print(summary_latex_table)
+    # print(summary_latex_table)
