@@ -248,8 +248,17 @@ if __name__ == "__main__":
     generic_to_brand["brand"] = [i[0] for i in generic_to_brand["brand"]]
 
     # Save results
-    generic_to_brand.to_csv("generic_to_brand_mapping.csv", index=False)
+    generic_to_brand.to_csv("generic_to_brand.csv", index=False)
     filtered_tradename_pairs.to_csv("filtered_tradename_pairs.csv", index=False)
+
+    # Create brand to generic mapping
+    brand_to_generic = (
+        filtered_tradename_pairs.groupby("brand")["generic"].apply(list).reset_index()
+    )
+    brand_to_generic["generic"] = [i[0] for i in brand_to_generic["generic"]]
+
+    # Save results
+    brand_to_generic.to_csv("brand_to_generic.csv", index=False)
 
     print(
         "Processing complete. Results saved to 'generic_to_brand_mapping.csv' and 'filtered_tradename_pairs.csv'."
